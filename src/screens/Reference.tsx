@@ -168,7 +168,7 @@ export function ProgressPage() {
               <span className="body-s text-muted">{seen.length} seen · {n ? `${pct(r, n)}% answered correctly` : 'not started'}</span></span>,
           };
         })} />
-        <Small>A question is mastered when you've answered it correctly three times in a row, spaced over several days.</Small>
+        <Small>A question is mastered when you get it right on three separate days in a row. Answering it again on the same day doesn't count twice.</Small>
 
         <div className="flex flex-col gap-4">
           <h2 className="heading-l">Your weakest topics</h2>

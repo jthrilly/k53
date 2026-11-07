@@ -1,10 +1,10 @@
 import * as React from 'react';
 import { QB, BY_ID, SECTIONS, SEC_ORDER, MOCK_MINUTES, SIGNS, LETTERS, sectionQs, topicsOf, pct, imgAlt, imgSrc, type Section } from '../lib/data';
-import { actions, useStore, mastered, isDue, isWeak, stat, pickPractice, reviewPool, isRight } from '../lib/store';
+import { actions, useStore, mastered, isDue, isWeak, stat, pickPractice, reviewPool, isRight, MASTER_AT, daysUntilDue, type Item } from '../lib/store';
 import { go } from '../router';
 import {
   TwoThirds, Stack, Caption, Lead, Body, Small, Link, ButtonLink, Button, ButtonGroup, Inset, ProgressBar, Radios, Tag, SECTION_TAG,
-  Notice, ErrorSummary, BackLink, Table, Tabs, Details, SectionBreak,
+  Notice, ErrorSummary, BackLink, Table, Tabs, Details, SectionBreak, cx,
 } from '../components/ui';
 import { QuestionView } from '../components/Question';
 
@@ -80,9 +80,10 @@ export function Practice() {
   const [len, setLen] = React.useState<string>('20');
   const [err, setErr] = React.useState(false);
   const [tab, setTab] = React.useState<string>('controls');
-  const weak = QB.filter(q => isWeak(q.id)).length;
   const due = QB.filter(q => isDue(q.id)).length;
-  const plural = (n: number) => `question${n === 1 ? '' : 's'}`;
+  const later = QB.filter(q => isWeak(q.id) && !isDue(q.id)).length;
+  const done = QB.filter(q => mastered(q.id)).length;
+  const started = QB.some(q => stat(q.id));
 
   const start = (e: React.FormEvent) => {
     e.preventDefault();
@@ -113,18 +114,22 @@ export function Practice() {
           </ButtonGroup>
         </form>
 
-        {due > 0 ? (
+        {started && (
           <Inset>
-            You have <b>{due}</b> {plural(due)} due for review.{' '}
-            <Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Review {due === 1 ? 'it' : 'them'} now</Link>.
+            <div className="flex flex-col gap-3">
+              <h2 className="heading-s">Your review schedule</h2>
+              <p>This builds up across all your practice sessions and mock tests, not just the last one. A question is mastered when you get it right on {MASTER_AT} separate days in a row. A wrong answer starts it again.</p>
+              <dl className="grid grid-cols-[auto_1fr] gap-x-4 gap-y-1 tabular-nums">
+                <dt>Due for review today</dt><dd className="font-bold">{due}</dd>
+                <dt>Coming back on a later day</dt><dd className="font-bold">{later}</dd>
+                <dt>Mastered</dt><dd className="font-bold">{done}</dd>
+              </dl>
+              {due > 0
+                ? <p><Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Review the {due} due today</Link></p>
+                : <p className="text-muted">Nothing is due today. Come back tomorrow, or keep practising new questions.</p>}
+            </div>
           </Inset>
-        ) : weak > 0 ? (
-          <Inset>
-            Nothing is due for review right now. <b>{weak}</b> {plural(weak)} you got wrong will come back over the next few days.
-            Each one counts as mastered once you get it right three times in a row, a few days apart.{' '}
-            <Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Practise {weak === 1 ? 'it' : 'them'} early</Link>.
-          </Inset>
-        ) : null}
+        )}
 
         <SectionBreak size="m" />
         <div className="flex flex-col gap-4">
@@ -199,6 +204,7 @@ export function Quiz() {
                   {!ok && q.opts[q.opts.findIndex(o => o.c)].t.startsWith('img:') && <p className="font-bold">{imgAlt(q.opts.find(o => o.c)!.t.slice(4))}</p>}
                   {q.exp && <p className="max-w-[38em]">{q.exp}</p>}
                   {q.src && <p className="body-s text-muted">Source: {q.src}</p>}
+                  <MasteryNote item={item} ok={ok} />
                 </div>
               </Notice>
             </div>
@@ -211,6 +217,34 @@ export function Quiz() {
         <Small className="max-sm:hidden">{right} right out of {answered} so far. Keyboard: press 1, 2 or 3 to choose an answer and Enter to continue.</Small>
       </Stack>
     </TwoThirds>
+  );
+}
+
+function Pips({ n }: { n: number }) {
+  return (
+    <span aria-hidden="true" className="inline-flex gap-1">
+      {Array.from({ length: MASTER_AT }, (_, i) => <span key={i} className={cx('size-3.5 border-2 border-success', i < n && 'bg-success')} />)}
+    </span>
+  );
+}
+const dayText = (d: number) => (d <= 1 ? 'tomorrow' : `in ${d} days`);
+
+/** Where this question now stands in smart review, so it's clear mastery builds up over days. */
+function MasteryNote({ item, ok }: { item: Item; ok: boolean }) {
+  const box = stat(item.id)?.box ?? 0;
+  const before = item.prevBox ?? 0;
+  const n = Math.min(box, MASTER_AT);
+  const d = daysUntilDue(item.id);
+  const text = !ok
+    ? (before > 0 ? 'Mastery goes back to 0 for this question. ' : '') + 'It will come back in your next smart review.'
+    : box > before
+      ? (box >= MASTER_AT && before < MASTER_AT ? "You've mastered this question." : `It comes back for review ${dayText(d)}.`)
+      : `This one already counted today. Get it right again ${dayText(d)} to move it closer to mastered.`;
+  return (
+    <div className="flex flex-col gap-1.5 border-t border-line pt-3 body-s">
+      <p className="flex flex-wrap items-center gap-2 font-bold">Mastery <Pips n={n} /> <span className="tabular-nums">{n} of {MASTER_AT} days</span></p>
+      <p>{text}</p>
+    </div>
   );
 }
 
@@ -228,6 +262,7 @@ function QuizSummary() {
         </div>
         {n > 0 && <ProgressBar value={pct(right, n)} label="Score" valueText={`${pct(right, n)}%`} tone={pct(right, n) >= 82 ? 'success' : 'brand'} />}
         <Body>{!n ? 'You did not answer any questions.' : pct(right, n) >= 82 ? "That's around the pass level of the real test. Keep it up." : 'The real test needs about 80% in every section. The questions you got wrong will come back in smart review.'}</Body>
+        {n > 0 && <Small>This score is for this session only. Mastery builds up separately, over several days. <Link href="#practice">See your review schedule</Link></Small>}
         <ButtonGroup>
           <ButtonLink href="#practice">Practise more questions</ButtonLink>
           {wrong.length > 0 && <Button variant="secondary" onClick={() => { actions.startQuiz(wrong.map(it => BY_ID[it.id]), 'Questions you got wrong'); window.scrollTo(0, 0); }}>Try the {wrong.length} you got wrong again</Button>}

@@ -21,7 +21,7 @@ function persist(key: string, value: unknown) {
 }
 
 /* ---------- Session types ---------- */
-export type Item = { id: string; order: number[]; answer: number | null; checked?: boolean };
+export type Item = { id: string; order: number[]; answer: number | null; checked?: boolean; prevBox?: number };
 export type Quiz = { title: string; items: Item[]; i: number };
 export type Test = { items: Item[]; i: number; flags: number[]; started: number; ends: number };
 export type Result = { rec: MockRecord; secPass: Record<Section, boolean>; timeUp: boolean; items: Item[] };
@@ -51,13 +51,19 @@ export const stat = (id: string): Stat | undefined => state.stats[id];
 export const mastered = (id: string) => (stat(id)?.box ?? 0) >= 3;
 export const isWeak = (id: string) => { const s = stat(id); return !!s && s.w > 0 && s.box < 3; };
 export const isDue = (id: string) => { const s = stat(id); return !!s && s.box < 5 && s.due <= Date.now() && (s.w > 0 || s.box < 2); };
+/** Midnight at the start of the local day, so "due in 1 day" means any time tomorrow. */
+const dayStart = (t: number) => { const d = new Date(t); d.setHours(0, 0, 0, 0); return d.getTime(); };
 function recorded(stats: Record<string, Stat>, id: string, ok: boolean) {
   const s = { ...(stats[id] || { n: 0, r: 0, w: 0, box: 0, due: 0, last: 0 }) };
   s.n++; s.last = Date.now();
-  if (ok) { s.r++; s.box = Math.min(5, s.box + 1); s.lastOk = 1; } else { s.w++; s.box = 0; s.lastOk = 0; }
-  s.due = Date.now() + BOX_DAYS[s.box] * DAY;
+  // A correct answer only moves a question up when it is due, so mastery takes several separate days.
+  if (ok) { s.r++; s.lastOk = 1; if (s.due <= s.last) { s.box = Math.min(5, s.box + 1); s.due = dayStart(s.last) + BOX_DAYS[s.box] * DAY; } }
+  else { s.w++; s.box = 0; s.lastOk = 0; s.due = s.last; }
   return { ...stats, [id]: s };
 }
+export const MASTER_AT = 3;
+/** Days until a question comes back for review (0 = now). */
+export const daysUntilDue = (id: string) => { const s = stat(id); return s ? Math.max(0, Math.ceil((s.due - Date.now()) / DAY)) : 0; };
 export const isRight = (it: Item) => it.answer !== null && !!BY_ID[it.id].opts[it.answer].c;
 
 /* ---------- Picking questions ---------- */
@@ -108,7 +114,7 @@ export const actions = {
   checkQuiz() {
     const quiz = state.quiz!; const it = quiz.items[quiz.i];
     if (it.answer === null || it.checked) return;
-    const items = quiz.items.slice(); items[quiz.i] = { ...it, checked: true };
+    const items = quiz.items.slice(); items[quiz.i] = { ...it, checked: true, prevBox: stat(it.id)?.box ?? 0 };
     emit({ quiz: { ...quiz, items }, stats: recorded(state.stats, it.id, isRight(it)) });
   },
   nextQuiz() { const q = state.quiz!; emit({ quiz: { ...q, i: q.i + 1 } }, false); },

@@ -8,7 +8,7 @@ A study app (installable PWA) for the South African **K53 learner's licence test
 
 - **672 practice questions** across the three test sections: 62 vehicle controls, 417 signs/signals/markings, 193 rules of the road. Each one has an explanation and a reference to the manual section it comes from.
 - **Mock test** shaped like the computerised test: 64 questions (8 controls, 28 signs, 28 rules) with a 60-minute timer. You can flag questions and jump between them. Each section is marked against its own pass mark (6, 23, 22), and you must pass all three.
-- **Smart review**: questions you get wrong come back on a spaced-repetition schedule. A question counts as "mastered" after three correct answers in a row, spaced over days.
+- **Smart review**: questions you get wrong come back on a spaced-repetition schedule. A question counts as "mastered" after correct answers on three separate days in a row (a second correct answer on the same day does not count). The practice page shows the review schedule, and each answer shows its progress towards mastery.
 - **Sign gallery** of all 152 signs cropped from the official manual, with search, a "hide names" self-test mode and flashcards.
 - **Revision notes** covering key numbers, parking/stopping distances, lights, alcohol limits, traffic lights, the controls diagram and changes since 2012.
 - Works offline once it has loaded, and can be installed to your home screen. Progress is saved in the browser on that device only.
