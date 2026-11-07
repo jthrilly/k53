@@ -81,7 +81,8 @@ export function Practice() {
   const [err, setErr] = React.useState(false);
   const [tab, setTab] = React.useState<string>('controls');
   const weak = QB.filter(q => isWeak(q.id)).length;
-  const due = reviewPool().length;
+  const due = QB.filter(q => isDue(q.id)).length;
+  const plural = (n: number) => `question${n === 1 ? '' : 's'}`;
 
   const start = (e: React.FormEvent) => {
     e.preventDefault();
@@ -112,12 +113,18 @@ export function Practice() {
           </ButtonGroup>
         </form>
 
-        {(weak > 0 || due > 0) && (
+        {due > 0 ? (
           <Inset>
-            You have <b>{weak}</b> question{weak === 1 ? '' : 's'} you got wrong and haven't mastered yet.{' '}
-            <Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Practise them now</Link>.
+            You have <b>{due}</b> {plural(due)} due for review.{' '}
+            <Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Review {due === 1 ? 'it' : 'them'} now</Link>.
           </Inset>
-        )}
+        ) : weak > 0 ? (
+          <Inset>
+            Nothing is due for review right now. <b>{weak}</b> {plural(weak)} you got wrong will come back over the next few days.
+            Each one counts as mastered once you get it right three times in a row, a few days apart.{' '}
+            <Link href="#review" onClick={e => { e.preventDefault(); startReview(); }}>Practise {weak === 1 ? 'it' : 'them'} early</Link>.
+          </Inset>
+        ) : null}
 
         <SectionBreak size="m" />
         <div className="flex flex-col gap-4">
