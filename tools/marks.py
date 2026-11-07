@@ -1,5 +1,5 @@
 import os
-D=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),'img','marks')
+D=os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),'public','img','marks')
 W,H=240,240
 # Edge lines: SA uses a yellow line on the left edge of each direction of travel (RM4.1).
 # Two-way road: both edges are a "left edge" for one direction. One-way (oneway=True): right edge is white.

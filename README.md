@@ -27,12 +27,20 @@ Every question was checked against the manual text by independent reviewers. Roa
 
 This is not an official DoT product. Always check the current manual.
 
+## Design
+
+The interface follows the approach of the GOV.UK Design System: plain pages, one question per page, large radio buttons, "check your answers" before finishing, and a yellow focus highlight. It does not use any GOV.UK branding or its typeface. The typeface is Public Sans.
+
+- **Components:** [Base UI](https://base-ui.com) (headless and accessible) for radios, checkboxes, accordions, tabs, dialogs, progress bars and collapsibles. They are styled in `src/components/ui.tsx`.
+- **Design tokens:** semantic colour tokens in `src/styles.css` (`--c-*` mapped to Tailwind `bg-surface`, `text-ink`, `border-line` and so on), with light and dark values. The type scale is the `heading-xl` … `body-s` utilities.
+- **App:** React with hash routing (`#practice`, `#mock` …). Progress is kept in `localStorage`, and a mock test in progress survives a page reload.
+
 ## Running locally
 
-It is a static site with no build step needed to run it:
-
 ```sh
-python3 -m http.server 8000   # then open http://localhost:8000
+npm install
+npm run dev        # development server
+npm run build      # production build in dist/ (also writes dist/sw.js for offline use)
 ```
 
 ## Editing questions
@@ -54,12 +62,10 @@ Questions live in `source/rules.txt`, `source/controls.txt` and `source/signs.tx
 Two questions per sign are also generated from `source/signs.json`. Rebuild after editing:
 
 ```sh
-python3 tools/build.py   # writes data/questions.js
-python3 tools/marks.py   # regenerates road-marking / traffic-light SVGs
+npm run questions        # python3 tools/build.py → src/data/questions.json
+python3 tools/marks.py   # regenerates road-marking / traffic-light SVGs in public/img/marks
 ```
-
-When you change files, bump `VERSION` in `sw.js` so installed copies pick up the update.
 
 ## Hosting
 
-GitHub Pages serves the `main` branch root (Settings → Pages → Deploy from a branch → `main` / `/ (root)`). The same folder can be dropped onto any static host (Netlify, Cloudflare Pages) unchanged.
+`.github/workflows/pages.yml` builds the app and deploys it to GitHub Pages on every push to `main`. Set the repository's **Settings → Pages → Source** to **GitHub Actions**. The build uses relative paths, so `dist/` also works on any static host.

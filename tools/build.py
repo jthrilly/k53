@@ -22,7 +22,7 @@ def parse(fn, section):
         elif line.startswith('I '): 
             k=line[2:].strip(); cur['img']=k
             if k in signs: pass
-            else: assert os.path.exists(f'{S}/img/marks/{k}.svg'), k
+            else: assert os.path.exists(f'{S}/public/img/marks/{k}.svg'), k
         elif line.startswith('Q '): cur['q']=line[2:].strip()
         elif line.startswith('-* '): cur['opts'].append({'t':line[3:].strip(),'c':1})
         elif line.startswith('- '): cur['opts'].append({'t':line[2:].strip(),'c':0})
@@ -73,8 +73,9 @@ seen=set()
 for q in qs:
     h=md5((q['section']+q['q']+q.get('img','')+'|'.join(o['t'] for o in q['opts'] if o['c'])).encode()).hexdigest()[:8]
     assert h not in seen, q['q']; seen.add(h); q['id']=h
-os.makedirs(f'{S}/data',exist_ok=True)
-open(f'{S}/data/questions.js','w').write('window.QB='+json.dumps(qs,ensure_ascii=False,separators=(',',':'))+';\nwindow.SIGNS='+json.dumps(signs,ensure_ascii=False,separators=(',',':'))+';\n')
+os.makedirs(f'{S}/src/data',exist_ok=True)
+json.dump(qs,open(f'{S}/src/data/questions.json','w'),ensure_ascii=False,separators=(',',':'))
+json.dump(signs,open(f'{S}/src/data/signs.json','w'),ensure_ascii=False,separators=(',',':'))
 json.dump(qs,open(f'{S}/source/questions_full.json','w'),indent=1,ensure_ascii=False)
 from collections import Counter
 print(len(qs), Counter(q['section'] for q in qs), Counter((q['section'],q.get('auto',0)) for q in qs))
