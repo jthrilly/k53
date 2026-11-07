@@ -1,0 +1,224 @@
+@import "tailwindcss";
+@import "@fontsource-variable/public-sans";
+
+/* ==========================================================================
+   K53 design system
+   Inspired by the GOV.UK Design System (plain, high-contrast, one task per page),
+   without its branding. All colours are semantic tokens; components use only the
+   Tailwind utilities generated from them (bg-surface, text-ink, border-line …).
+   Light values on :root, dark values under the OS preference unless the user
+   picked "light", and again under [data-theme="dark"] so the toggle wins both ways.
+   ========================================================================== */
+
+:root {
+  --c-page: #ffffff;
+  --c-surface: #ffffff;
+  --c-surface-alt: #f3f2f1;
+  --c-ink: #0b0c0c;
+  --c-muted: #505a5f;
+  --c-line: #b1b4b6;
+  --c-line-strong: #0b0c0c;
+  --c-link: #1d70b8;
+  --c-link-hover: #003078;
+  --c-focus: #ffdd00;
+  --c-focus-ink: #0b0c0c;
+  --c-brand: #1d70b8;
+  --c-header: #0b0c0c;
+  --c-header-ink: #ffffff;
+  --c-btn: #00703c;
+  --c-btn-hover: #005a30;
+  --c-btn-shadow: #002d18;
+  --c-btn-ink: #ffffff;
+  --c-btn2: #f3f2f1;
+  --c-btn2-hover: #dbdad9;
+  --c-btn2-shadow: #858686;
+  --c-btn2-ink: #0b0c0c;
+  --c-success: #00703c;
+  --c-error: #d4351c; --c-error-fill: #d4351c;
+  --c-panel-pass: #00703c;
+  --c-panel-fail: #a52a17;
+  --c-panel-ink: #ffffff;
+  --c-tag-blue-bg: #bbd4ea;   --c-tag-blue: #0c2d4a;
+  --c-tag-green-bg: #cce2d8;  --c-tag-green: #005a30;
+  --c-tag-red-bg: #f4cdc6;    --c-tag-red: #2a0b06;
+  --c-tag-yellow-bg: #fff7bf; --c-tag-yellow: #594d00;
+  --c-tag-grey-bg: #e5e6e7;   --c-tag-grey: #282d30;
+  --c-tag-orange-bg: #fcd6c3; --c-tag-orange: #6e3619;
+  --c-sign-bg: #ffffff;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --c-page: #0f1112;
+    --c-surface: #17191b;
+    --c-surface-alt: #1f2225;
+    --c-ink: #f3f2f1;
+    --c-muted: #b1b4b6;
+    --c-line: #4d5459;
+    --c-line-strong: #f3f2f1;
+    --c-link: #8bb8e8;
+    --c-link-hover: #c2dbf5;
+    --c-brand: #4f97d8;
+    --c-header: #000000;
+    --c-btn: #00823f;
+    --c-btn-hover: #00703c;
+    --c-btn-shadow: #002d18;
+    --c-btn2: #2c3034;
+    --c-btn2-hover: #3a3f44;
+    --c-btn2-shadow: #000000;
+    --c-btn2-ink: #f3f2f1;
+    --c-success: #4cbb84;
+    --c-error: #f2826b; --c-error-fill: #c0301a;
+    --c-panel-pass: #00703c;
+    --c-panel-fail: #a52a17;
+    --c-tag-blue-bg: #1b3a57;   --c-tag-blue: #cfe3f5;
+    --c-tag-green-bg: #133d2a;  --c-tag-green: #c9ecd9;
+    --c-tag-red-bg: #4a1d16;    --c-tag-red: #f8d5ce;
+    --c-tag-yellow-bg: #4a4000; --c-tag-yellow: #fff3a6;
+    --c-tag-grey-bg: #2c3034;   --c-tag-grey: #e5e6e7;
+    --c-tag-orange-bg: #4f2a14; --c-tag-orange: #fcd6c3;
+    --c-sign-bg: #ffffff;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --c-page: #0f1112;
+  --c-surface: #17191b;
+  --c-surface-alt: #1f2225;
+  --c-ink: #f3f2f1;
+  --c-muted: #b1b4b6;
+  --c-line: #4d5459;
+  --c-line-strong: #f3f2f1;
+  --c-link: #8bb8e8;
+  --c-link-hover: #c2dbf5;
+  --c-brand: #4f97d8;
+  --c-header: #000000;
+  --c-btn: #00823f;
+  --c-btn-hover: #00703c;
+  --c-btn-shadow: #002d18;
+  --c-btn2: #2c3034;
+  --c-btn2-hover: #3a3f44;
+  --c-btn2-shadow: #000000;
+  --c-btn2-ink: #f3f2f1;
+  --c-success: #4cbb84;
+  --c-error: #f2826b; --c-error-fill: #c0301a;
+  --c-panel-pass: #00703c;
+  --c-panel-fail: #a52a17;
+  --c-tag-blue-bg: #1b3a57;   --c-tag-blue: #cfe3f5;
+  --c-tag-green-bg: #133d2a;  --c-tag-green: #c9ecd9;
+  --c-tag-red-bg: #4a1d16;    --c-tag-red: #f8d5ce;
+  --c-tag-yellow-bg: #4a4000; --c-tag-yellow: #fff3a6;
+  --c-tag-grey-bg: #2c3034;   --c-tag-grey: #e5e6e7;
+  --c-tag-orange-bg: #4f2a14; --c-tag-orange: #fcd6c3;
+  --c-sign-bg: #ffffff;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-page: var(--c-page);
+  --color-surface: var(--c-surface);
+  --color-surface-alt: var(--c-surface-alt);
+  --color-ink: var(--c-ink);
+  --color-muted: var(--c-muted);
+  --color-line: var(--c-line);
+  --color-line-strong: var(--c-line-strong);
+  --color-link: var(--c-link);
+  --color-link-hover: var(--c-link-hover);
+  --color-focus: var(--c-focus);
+  --color-focus-ink: var(--c-focus-ink);
+  --color-brand: var(--c-brand);
+  --color-header: var(--c-header);
+  --color-header-ink: var(--c-header-ink);
+  --color-btn: var(--c-btn);
+  --color-btn-hover: var(--c-btn-hover);
+  --color-btn-shadow: var(--c-btn-shadow);
+  --color-btn-ink: var(--c-btn-ink);
+  --color-btn2: var(--c-btn2);
+  --color-btn2-hover: var(--c-btn2-hover);
+  --color-btn2-shadow: var(--c-btn2-shadow);
+  --color-btn2-ink: var(--c-btn2-ink);
+  --color-success: var(--c-success);
+  --color-error: var(--c-error);
+  --color-error-fill: var(--c-error-fill);
+  --color-panel-pass: var(--c-panel-pass);
+  --color-panel-fail: var(--c-panel-fail);
+  --color-panel-ink: var(--c-panel-ink);
+  --color-sign: var(--c-sign-bg);
+  --color-tag-blue-bg: var(--c-tag-blue-bg);
+  --color-tag-blue: var(--c-tag-blue);
+  --color-tag-green-bg: var(--c-tag-green-bg);
+  --color-tag-green: var(--c-tag-green);
+  --color-tag-red-bg: var(--c-tag-red-bg);
+  --color-tag-red: var(--c-tag-red);
+  --color-tag-yellow-bg: var(--c-tag-yellow-bg);
+  --color-tag-yellow: var(--c-tag-yellow);
+  --color-tag-grey-bg: var(--c-tag-grey-bg);
+  --color-tag-grey: var(--c-tag-grey);
+  --color-tag-orange-bg: var(--c-tag-orange-bg);
+  --color-tag-orange: var(--c-tag-orange);
+
+  --font-sans: "Public Sans Variable", Arial, Helvetica, sans-serif;
+  --container-page: 960px;
+}
+
+/* ---------- Type scale (mobile → ≥640px). One scale, used everywhere. ---------- */
+@utility heading-xl { font-weight: 700; font-size: 2rem; line-height: 1.09; letter-spacing: -0.01em; text-wrap: balance;
+  @media (width >= 40rem) { font-size: 3rem; line-height: 1.04; } }
+@utility heading-l { font-weight: 700; font-size: 1.6875rem; line-height: 1.11; text-wrap: balance;
+  @media (width >= 40rem) { font-size: 2.25rem; line-height: 1.11; } }
+@utility heading-m { font-weight: 700; font-size: 1.3125rem; line-height: 1.19; text-wrap: balance;
+  @media (width >= 40rem) { font-size: 1.5rem; line-height: 1.25; } }
+@utility heading-s { font-weight: 700; font-size: 1.1875rem; line-height: 1.32; }
+@utility body-l { font-size: 1.1875rem; line-height: 1.32;
+  @media (width >= 40rem) { font-size: 1.5rem; line-height: 1.25; } }
+@utility body-m { font-size: 1rem; line-height: 1.5;
+  @media (width >= 40rem) { font-size: 1.1875rem; line-height: 1.42; } }
+@utility body-s { font-size: 0.875rem; line-height: 1.43;
+  @media (width >= 40rem) { font-size: 1rem; line-height: 1.5; } }
+@utility caption-l { color: var(--c-muted); font-size: 1.125rem; line-height: 1.11;
+  @media (width >= 40rem) { font-size: 1.6875rem; } }
+@utility caption-m { color: var(--c-muted); font-size: 1rem; line-height: 1.25;
+  @media (width >= 40rem) { font-size: 1.1875rem; } }
+
+/* ---------- Focus: the yellow highlight ---------- */
+@utility focus-link {
+  &:focus-visible { outline: 3px solid transparent; color: var(--c-focus-ink) !important; background: var(--c-focus);
+    box-shadow: 0 -2px var(--c-focus), 0 4px var(--c-focus-ink); text-decoration: none; }
+}
+@utility focus-box {
+  &:focus-visible { outline: 3px solid var(--c-focus); outline-offset: 0; box-shadow: inset 0 0 0 2px var(--c-focus-ink); }
+}
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body { background: var(--c-page); color: var(--c-ink); font-family: var(--font-sans); -webkit-font-smoothing: antialiased; }
+  ::selection { background: var(--c-focus); color: var(--c-focus-ink); }
+  img { max-width: 100%; }
+}
+
+/* ---------- Links ---------- */
+@utility link {
+  color: var(--c-link); text-decoration: underline; text-decoration-thickness: max(1px, .0625rem); text-underline-offset: .15em; cursor: pointer;
+  &:hover { color: var(--c-link-hover); text-decoration-thickness: max(3px, .1875rem); }
+  &:focus-visible { outline: 3px solid transparent; color: var(--c-focus-ink); background: var(--c-focus);
+    box-shadow: 0 -2px var(--c-focus), 0 4px var(--c-focus-ink); text-decoration: none; }
+}
+
+/* ---------- Revision notes body (HTML content from notes.js) ---------- */
+.note-body { display: flex; flex-direction: column; gap: 1rem; }
+.note-body p, .note-body li { max-width: 40em; }
+.note-body ul { list-style: disc; padding-left: 1.25em; display: flex; flex-direction: column; gap: .35rem; }
+.note-body b { font-weight: 700; }
+.note-body .tablewrap { overflow-x: auto; }
+.note-body table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.note-body th, .note-body td { text-align: left; vertical-align: top; padding: .625rem 1.25rem .625rem 0; border-bottom: 1px solid var(--c-line); }
+.note-body th { font-weight: 700; }
+.note-body td.v { font-weight: 700; white-space: nowrap; }
+.note-body .callout { border-left: 10px solid var(--c-line); padding: .9375rem; }
+.note-body .lights { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: .75rem; }
+.note-body .lights > div { display: flex; gap: .75rem; align-items: center; border: 1px solid var(--c-line); padding: .5rem; }
+.note-body .lights img { height: 4rem; width: auto; flex: none; }
+.note-body .controls-legend { display: grid; grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr)); gap: .35rem 1.25rem; }
+.note-body .controls-legend b { display: inline-block; width: 1.75rem; }
+.note-body img[src*="controls"] { background: #fff; border: 1px solid var(--c-line); }

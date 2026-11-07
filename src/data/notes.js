@@ -1,6 +1,6 @@
 // Revision notes. Sources: DoT SA Learner Driver Manual (2012: Rules of the Road, Road Traffic Signs v1.02, Vehicle Controls),
 // plus research on the current computerised test (Nov 2026). Figures use SA notation (decimal comma).
-window.NOTES = [
+export const NOTES = [
 {id:'test', title:'The test', html:`
 <p>The learner's licence test checks three things. You must pass <b>each section on its own</b>: a high score in one section does not make up for a fail in another.</p>
 <div class="tablewrap"><table class="kt"><thead><tr><th>Section</th><th>Questions</th><th>Pass mark</th></tr></thead><tbody>
