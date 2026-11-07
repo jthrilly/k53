@@ -1,0 +1,153 @@
+file	key	code	name	meaning	group
+crops/p05_04	stop-go	R1.5	Stop / Go (STOP/RY-GO)	Two signs mounted back to back, used mostly at road works: stop when STOP is shown; proceed with caution when GO is shown.	control
+p05_00_0	stop	R1.1	Stop	Stop behind the stop line (or in line with the sign if there is no line); proceed only when it is safe.	control
+p05_01_0	stop-yield	R1.2	Stop / yield (left turn)	Stop if going straight or turning right; traffic turning left may do so without stopping, but must yield to all traffic close enough to be a hazard.	control
+p05_02_0	stop-3way	R1.3	3-way stop	All three approaches must stop; the vehicle that stopped first moves off first.	control
+p05_03_0	stop-4way	R1.4	4-way stop	All four approaches must stop; the vehicle that stopped first moves off first.	control
+p05_05_0	yield	R2	Yield	Yield to other traffic: slow down and stop if necessary.	control
+p06_00_0	yield-ped	R2.1	Yield to pedestrians	Give priority to pedestrians crossing or wanting to cross; be ready to stop.	control
+p06_01_0	yield-circle	R2.2	Yield at traffic circle (mini-circle)	Yield to vehicles already in the circle or that will cross their yield line before you cross yours; first to reach the yield line goes first.	control
+p06_02_0	no-entry	R3	No entry	No traffic may proceed past the sign (e.g. the wrong end of a one-way street).	control
+p06_03_0	oneway-left	R4.1	One-way roadway (to the left)	The road in the direction of the arrow is a one-way roadway.	control
+p06_03_1	oneway-ahead	R4.3	One-way roadway (ahead)	The road ahead is a one-way roadway.	control
+p06_04_0	ped-priority	R5	Pedestrian priority	Area intended for pedestrians; only emergency, loading/off-loading and maintenance vehicles, max 15 km/h, giving pedestrians priority.	control
+p06_05_0	yield-oncoming	R6	Yield to oncoming traffic	Single carriageway ahead for both directions: yield to vehicles already in it.	control
+p07_00_0	min-speed	R101	Minimum speed (50 km/h)	Do not drive slower than the speed shown.	command
+p07_01_0	mass-only	R102	Vehicles exceeding 10 t only	Vehicles with a GVM/GCM over the mass shown must use this road or lane.	command
+p07_02_0	keep-left	R103	Keep left	Pass to the left of the obstruction.	command
+p07_02_1	keep-right	R104	Keep right	Pass to the right of the obstruction.	command
+p07_03_0a	proceed-left	R105	Proceed left only	Drive only in the direction of the arrow (left).	command
+p07_04_0	turn-left	R108	Turn left only	At the intersection ahead you must turn left.	command
+p07_04_1	turn-right	R109	Turn right only	At the intersection ahead you must turn right.	command
+p07_05_0	ped-only	R110	Pedestrians only	Road or part of road for pedestrians only.	command
+p07_06_0	cycle-only	R111	Pedal cyclists only	Road or part of road for cyclists only.	command
+p08_00_0b	cycle-ped-split	R113	Cyclists and pedestrians only (divided)	Divided path: cyclists use the side with the bicycle, pedestrians the side with the pedestrian.	command
+p08_01_0	mc-only	R116	Motorcycles only	Road or lane for motorcycles only.	command
+p08_01_1	mc-only-t	TR116	Motorcycles only (temporary)	Temporary version: road or lane for motorcycles only.	command
+p08_02_0	car-only	R117	Motor cars only	Road or lane for motor cars only.	command
+p08_03_0	taxi-only	R118	Taxis only	Road or lane set aside for taxis.	command
+p08_04_0	minibus-only	R119	Minibuses only	Road or lane set aside for minibuses.	command
+p09_00_0	bus-only	R121	Buses only	Road or lane set aside for buses.	command
+p09_01_0	delivery-only	R122	Delivery vehicles only	Road or lane set aside for delivery vehicles.	command
+p09_02_0	goods-only	R123	Goods vehicles only	Road or lane set aside for goods vehicles.	command
+p09_04_0	construction-only	R125	Construction vehicles only	Road set aside for construction vehicles.	command
+p09_05_0	hazmat-only	R126	Vehicles transporting dangerous substances only	Road set aside for vehicles conveying dangerous goods.	command
+p09_06_0	abnormal-only	R127	Abnormal vehicles only	Road set aside for abnormal vehicles.	command
+p10_01_0	tour-only	R129	Tour buses only	Road set aside for tour buses.	command
+p10_02_0	agri-only	R130	Agricultural vehicles only	Road set aside for agricultural vehicles.	command
+p10_03_0	animal-drawn-only	R131	Animal-drawn vehicles only	Road set aside for animal-drawn vehicles.	command
+p11_00_0	pay-toll	R132	Pay toll	Last chance to take an alternative route; if you carry on, you must pay toll.	command
+p11_01_0	headlamps-on	R133	Switch headlamps on	Switch on your headlights (dipped) to see and be seen, e.g. before a tunnel.	command
+p11_02_0	roundabout	R137	Roundabout	Move clockwise; yield to vehicles approaching from the right within the roundabout.	command
+p12_00_0a	speed-100	R201	Speed limit 100 km/h	Do not exceed 100 km/h; the limit applies from the sign.	prohibition
+p12_00_0b	speed-60	R201	Speed limit 60 km/h	Do not exceed 60 km/h; the limit applies from the sign.	prohibition
+p12_00_1a	speed-100-t	TR201	Temporary speed limit 100 km/h	Temporary speed limit: do not exceed 100 km/h.	prohibition
+p12_01_0	mass-limit	R202	Mass limit (12 t)	Vehicles with GVM/GCM over 12 t may not use this road.	prohibition
+p12_02_0	axle-mass	R203	Axle mass limit (2 t)	Vehicles with any axle heavier than the mass shown may not use this road.	prohibition
+p12_03_0	height-limit	R204	Height limit (4,42 m)	Vehicles (including load) higher than 4,42 m may not proceed.	prohibition
+p12_04_0	length-limit	R205	Length limit (15 m)	Vehicles longer than 15 m may not proceed.	prohibition
+p12_05_0	no-noise	R206	Excessive noise prohibited	No excessive noise; do not use your hooter for 100 m after the sign.	prohibition
+p12_06_0	no-hitchhike	R207	Hitch-hiking prohibited	Pedestrians may not hitch-hike and drivers may not pick up passengers for the next 500 m.	prohibition
+p13_00_0	no-unauthorised	R208	Unauthorised vehicles prohibited	Do not proceed past the sign without special permission.	prohibition
+p13_01_0x	no-left-ahead	R209	Left turn ahead prohibited	You may not turn left at the intersection ahead.	prohibition
+p13_01_0y	no-right-ahead	R210	Right turn ahead prohibited	You may not turn right at the intersection ahead.	prohibition
+p13_02_0x	no-left	R211	Left turn prohibited	No left turn here; you may go straight or turn right.	prohibition
+p13_02_0y	no-right	R212	Right turn prohibited	No right turn here; you may go straight or turn left.	prohibition
+p13_03_0	no-uturn	R213	U-turn prohibited	Do not turn your vehicle around to face the opposite direction.	prohibition
+p13_04_0x	no-overtaking	R214	Overtaking prohibited	Do not overtake any vehicle for the next 500 m.	prohibition
+p13_04_0y	no-overtaking-goods	R215	Overtaking prohibited for goods vehicles	Drivers of heavy (goods) vehicles may not overtake other heavy vehicles for the next 500 m.	prohibition
+p13_05_0	no-parking	R216	Parking prohibited	Do not park here (you may stop briefly).	prohibition
+p13_06_0	no-stopping	R217	Stopping prohibited	Do not stop, except to obey a traffic light or officer, or to avoid a collision.	prohibition
+p14_00_0	no-peds	R218	Pedestrians prohibited	Pedestrians may not proceed; still watch out for them.	prohibition
+p14_01_0	no-cycles	R219	Pedal cycles prohibited	Cyclists may not proceed past the sign.	prohibition
+p14_02_0	no-cycles-peds	R220	Pedal cycles and pedestrians prohibited	Cyclists and pedestrians may not proceed past the sign.	prohibition
+p14_03_0	no-mc	R222	Motorcycles prohibited	Motorcycles may not enter (on a freeway, leave at the first exit).	prohibition
+p14_04_0	no-cars	R223	Motor cars prohibited	Motor cars may not enter.	prohibition
+p14_05_0	no-taxis	R224	Taxis prohibited	Taxis may not proceed beyond the sign.	prohibition
+p14_06_0	no-minibus	R225	Minibuses prohibited	Minibuses may not proceed beyond the sign.	prohibition
+p15_01_0	no-buses	R227	Buses prohibited	Buses may not proceed beyond the sign.	prohibition
+p15_03_0	no-goods	R229	Goods vehicles prohibited	Goods vehicles may not proceed beyond the sign.	prohibition
+p15_06_0	no-hazmat	R232	Vehicles transporting dangerous substances prohibited	Vehicles carrying dangerous goods may not proceed.	prohibition
+p16_02_0	no-agri	R236	Agricultural vehicles prohibited	Tractors / agricultural vehicles may not proceed.	prohibition
+p16_03_0	no-animal-drawn	R237	Animal-drawn vehicles prohibited	Animal-drawn vehicles may not proceed.	prohibition
+p16_04_0	no-horses	R238	Horses and riders prohibited	Horses and riders (mounted or leading) may not proceed.	prohibition
+p16_05_0	width-limit	R239	Width limit (2,1 m)	Vehicles wider than 2,1 m may not proceed.	prohibition
+p16_06_0	no-towing	R240	Towed vehicles prohibited	No vehicle towing another vehicle or trailer may proceed.	prohibition
+p16_07_0	no-hawkers	R241	Hawkers prohibited	Hawkers prohibited; do not stop or park for hawkers here.	prohibition
+p20_00_0	bus-stop	R325	Bus stop reservation	Only buses of the indicated operator may stop here to pick up or drop off passengers.	reservation
+p21_00_0	freeway	R401	Dual-carriageway freeway begins	A dual-carriageway freeway (separate roadways for each direction) begins; freeway rules apply from here.	comprehensive
+p21_01_0	freeway-single	R402	Single-carriageway freeway begins	A single-carriageway freeway (one roadway carrying both directions) begins; freeway rules apply from here.	comprehensive
+p21_02_0	woonerf	R403	Woonerf	"Residential ""living street"": max 30 km/h, pedestrians have right of way, no through traffic, no vehicles over 3 500 kg or with more than 10 seats except local access/delivery."	comprehensive
+p22_02_0	daytime	R511	Daytime (supplementary plate)	The sign above it applies during daytime only.	selective
+p22_03_0	nighttime	R512	Night-time (supplementary plate)	The sign above it applies at night only.	selective
+p22_05_0	pay-display	R523	Pay and display	Pay the parking fee and display the receipt in your vehicle.	selective
+p29_00_0	crossroad	W101	Crossroad	A crossroad is ahead: approach cautiously and be able to stop.	warning
+p29_01_0	priority-crossroad	W102	Priority crossroad	Crossroad ahead where YOU have right of way (thicker line = priority road); still be ready to stop if cross-traffic does not yield.	warning
+p29_02_0	secondary-crossroad	W103	Secondary crossroad	Crossroad ahead where you must yield to cross-traffic (the thick line is the priority road).	warning
+p29_03_0	t-junction	W104	T-junction	Road ends at a T-junction ahead: you will have to turn left or right.	warning
+p29_05_0a	side-road-left	W107	Side road junction from the left	A side road joins from the left ahead.	warning
+p29_05_0b	side-road-right	W108	Side road junction from the right	A side road joins from the right ahead.	warning
+p30_03_0	y-junction	W115	Y-junction	The road forks into two roads ahead.	warning
+p31_00_0	traffic-circle	W201	Traffic circle ahead	Traffic circle ahead; slow down and be ready to yield.	warning
+p31_01_0a	gentle-curve-right	W202	Gentle curve to the right	A gentle curve to the right is ahead.	warning
+p31_01_0b	gentle-curve-left	W203	Gentle curve to the left	A gentle curve to the left is ahead.	warning
+p31_02_0a	sharp-curve-right	W204	Sharp curve to the right	A sharp curve to the right is ahead: slow down.	warning
+p31_02_0b	sharp-curve-left	W205	Sharp curve to the left	A sharp curve to the left is ahead: slow down.	warning
+p31_03_0a	hairpin-right	W206	Hairpin bend to the right	A very sharp U-shaped curve to the right is ahead.	warning
+p31_03_0b	hairpin-left	W207	Hairpin bend to the left	A very sharp U-shaped curve to the left is ahead.	warning
+p31_04_0x	winding-road	W208	Winding road	A series of curves is ahead (more may follow without further warning).	warning
+p32_00_0	two-way	W212	Two-way traffic	The one-way road you are on will soon carry two-way traffic.	warning
+p32_01_0	two-way-crossroad	W213	Two-way traffic crossroad	Your one-way street will be crossed by a street with two-way traffic.	warning
+p32_04_0	signals-ahead	W301	Traffic signals ahead	Traffic lights ahead: slow down and be ready to stop.	warning
+p32_05_0	stop-ahead	W302	Stop sign ahead	A stop sign is ahead that you may not see in time: slow down and be ready to stop.	warning
+p33_00_0	yield-ahead	W303	Yield sign ahead	A yield sign is ahead: slow down and be ready to stop.	warning
+p33_01_0	officer-ahead	TW304	Traffic control (officer) ahead	A traffic officer is controlling traffic ahead.	warning
+p33_02_0	scholar-patrol	TW305	Scholar patrol ahead	A scholar patrol is operating ahead: slow down and watch for children and the stop sign.	warning
+p33_03_0	ped-crossing	W306	Pedestrian crossing ahead	A demarcated pedestrian crossing is ahead; do not overtake vehicles stopped at it.	warning
+p33_04_0	pedestrians	W307	Pedestrians	Pedestrians may be crossing for the next 2 km.	warning
+p33_05_0	children	W308	Children	Children may be crossing or playing in the road.	warning
+p33_06_0	cyclists	W309	Pedal cyclists	Cyclists may be on or crossing the road for the next 2 km.	warning
+p33_07_0ax	cattle	W310	Domestic animals (cattle)	Free-roaming domestic animals may be on the road for the next 2 km.	warning
+p34_00_0	wild-animals	W313	Wild animals	Wild animals may be on or crossing the road for the next 2 km.	warning
+p34_01_0	gate	W314	Gate	A gate or boom across the road is ahead.	warning
+p34_03_0	railway	W318	Railway crossing ahead	A railway crossing is ahead: slow down, look both ways and stop in time if a train is coming.	warning
+p34_04_0	tunnel	W319	Tunnel	A tunnel is ahead: slow down and switch on headlights (dipped).	warning
+p34_05_0	height-restricted	W320	Height restriction ahead (4,42 m)	A structure ahead is only 4,42 m high.	warning
+p35_01_0	slow-heavy	W324	Slow-moving heavy vehicles	Heavy vehicles travel slowly on the steep road ahead.	warning
+p35_02_0	gravel-begins	W325	Gravel road begins	The tarred road changes to gravel: slow down, steering is lighter and stopping distances longer.	warning
+p35_03_0	narrow-bridge	W326	Narrow bridge	The road narrows over a bridge: try not to cross at the same time as an oncoming vehicle.	warning
+p35_04_0	one-vehicle-width	W327	One-vehicle-width structure	Only one vehicle at a time can pass: if there is oncoming traffic, stop at least 6 m from the structure and yield.	warning
+p35_05_0	narrows-both	W328	Road narrows from both sides	The road ahead narrows from both sides.	warning
+p36_00_0	uneven	W331	Uneven roadway	A dip, ridge or potholes ahead.	warning
+p36_01_0	speed-humps	W332	Speed humps	Speed humps ahead: slow down.	warning
+p36_02_0	slippery	W333	Slippery road	Unusually slippery road ahead for the next 2 km: avoid sudden braking or steering.	warning
+p36_03_0	falling-rocks	W334	Falling rocks	Rocks could fall onto the road.	warning
+p36_04_0	road-works	TW336	Road works	Temporary construction or maintenance works ahead.	warning
+p36_05_0	grader	TW337	Grader working	A grader is working on the road ahead.	warning
+p36_07_0	general-warning	W339	General warning	Danger of some kind ahead.	warning
+p37_01_0	soft-shoulder	TW342	Soft shoulder	The road shoulder is soft: do not drive or stop on it.	warning
+p37_02_0	stop-go-ahead	TW343	Stop/Go control ahead	Traffic ahead is controlled by a Stop/Go sign: slow down and get ready to stop.	warning
+p37_03_0	truck-crossing	TW344	Truck crossing (temporary)	Heavy vehicles regularly cross or join the road ahead.	warning
+p37_04_0	emergency-light	W346	Emergency flashing light	Hazard ahead; look out for signs showing what it is.	warning
+p37_05_0	police-light	TW347	Temporary police flashing light	Police on duty ahead (roadblock, collision scene): be ready to stop.	warning
+p37_06_0	jetty	W348	Jetty edge or river bank	The road leads to a jetty edge or river bank.	warning
+p38_00_0	crosswind	W349	Crosswinds	Strong crosswinds may push your vehicle off course.	warning
+p38_01_0	drift	W350	Drift	A drift (low water crossing) ahead may be flooded.	warning
+p38_02_0	aircraft	W351	Low-flying aircraft	Low-flying aircraft and sudden noise: do not brake suddenly.	warning
+p38_03_0	agri-vehicles	W352	Agricultural vehicles	Tractors or slow farm vehicles may cross or enter the road.	warning
+p38_04_0	collision	TW353	Collision ahead	A collision scene is ahead: slow down and be ready to stop; do not stop out of curiosity.	warning
+p38_05_0	reduced-visibility	W354	Reduced visibility	Fog or smoke may reduce visibility ahead.	warning
+p38_06_0	congestion	W355	Congestion	Congested traffic may be ahead.	warning
+p39_00_0	horse-riders	W356	Horses and riders	Horses and riders may be on the road ahead.	warning
+p39_01_0	elephant	W357	Elephants	Elephants may be on the road ahead.	warning
+p39_04_0	width-warning	W360	Width restriction ahead (2,1 m)	The road ahead is restricted to vehicles 2,1 m wide or less.	warning
+p39_05_0	electric	W361	Electrical shock	Risk of electrical shock from overhead power cables ahead.	warning
+p40_00_0	railway-crossbuck	W403	Railway crossing (single track)	A railway crossing with one track; if no stop line, stop no closer than 3 m from the nearest rail.	warning
+p40_01_0	chevron	W405	Sharp curve chevron (curve to the left)	The road curves sharply to the left; slow down.	warning
+p40_05_1	signals-out	TW412	Traffic signals out of order	The traffic lights ahead are not working: slow down, yield and be ready to stop.	warning
+p56_01_0	cul-de-sac	IN5/IN6	Cul-de-sac (side road to the right)	The side road to the right is a dead end (no through road).	information
+p56_02_0	right-of-way	IN7	Right of way	You have right of way at the intersection ahead.	information
+p56_05_0	info-centre	IN12	Information centre	Information office or notice board.	information
+p57_01_0	coordinated-signals	IN14	Co-ordinated traffic signals	If you keep to the speed shown, the following traffic lights should be green (a recommendation, not a limit).	information
+p57_02_0	multi-phase	IN15	Multi-phase traffic signals	These lights do not follow the normal sequence: wait for your own green, even if opposing traffic moves.	information
+p57_03_0	bus-stop-ahead	IN16	Bus stop ahead	A bus stop is ahead.	information

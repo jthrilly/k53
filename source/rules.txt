@@ -1,0 +1,1585 @@
+# Rules of the road. Same format as controls.txt.
+
+@ Licences
+Q A learner's licence is valid for …
+- 12 months
+-* 24 months
+- 5 years
+E A learner's licence is valid for 24 months from the date the test was passed.
+R Rules of the Road s3 & 5.1
+
+@ Licences
+Q Which learner's licence code do you need to learn to drive a light motor vehicle (car)?
+- Code 1
+-* Code 2
+- Code 3
+E Code 1 = motorcycles, Code 2 = light motor vehicles (tare/GVM/GCM not over 3 500 kg), Code 3 = light and heavy motor vehicles.
+R Rules of the Road 5.1
+
+@ Licences
+Q What is the minimum age to obtain a Code 2 (light motor vehicle) learner's licence?
+- 16 years
+-* 17 years
+- 18 years
+E Code 1: 16 years. Code 2: 17 years. Code 3: 18 years.
+R Rules of the Road 5.1
+
+@ Licences
+Q What is the minimum age to obtain a Code 1 (motorcycle) learner's licence?
+-* 16 years
+- 17 years
+- 18 years
+E Code 1 (motorcycle): 16 years. Under 18 you may only ride a motorcycle of not more than 125 cm³.
+R Rules of the Road 5.1
+
+@ Licences
+Q What is the minimum age to obtain a Code 3 learner's licence?
+- 16 years
+- 17 years
+-* 18 years
+E Code 3 (light and heavy motor vehicles): 18 years.
+R Rules of the Road 5.1
+
+@ Licences
+Q A Code 2 learner's licence authorises you to drive vehicles of which the tare, GVM or GCM does not exceed …
+- 3 000 kg
+-* 3 500 kg
+- 9 000 kg
+E A Code 2 learner may drive any motor vehicle or combination (other than a motorcycle or motor tricycle) where neither the tare, GVM nor GCM exceeds 3 500 kg.
+R Rules of the Road 5.1
+
+@ Licences
+Q When you drive with a Code 2 learner's licence, you must be …
+- alone, but only during daylight
+-* under the direct supervision of a person who holds a driving licence for that class of vehicle
+- accompanied by any adult passenger
+E A Code 2 learner may only drive under the direct supervision of a person holding a driving licence for the applicable class of vehicle.
+R Rules of the Road 5.1(2)(b)
+
+@ Licences
+Q A motorcycle learner (Code 1) may …
+- carry one passenger if the passenger wears a helmet
+-* not carry any passengers
+- carry a passenger only in a side-car
+E A Code 1 learner's licence does not authorise the carrying of passengers.
+R Rules of the Road 5.1(1)(d)-(e)
+
+@ Licences
+Q If you are under 18 and hold a Code 1 learner's licence, the motorcycle you ride may not have an engine bigger than …
+- 50 cm³
+-* 125 cm³
+- 200 cm³
+E Under the age of 18 you may only ride a motorcycle with a cylinder capacity not exceeding 125 cm³.
+R Rules of the Road 5.1(1)(c)
+
+@ Licences
+Q On which form do you apply for a learner's licence?
+- Form DL1
+-* Form LL1
+- Form MC
+E Application for a learner's licence is made at a driving licence testing centre (DLTC) on form LL1.
+R Rules of the Road s3 & 5.4
+
+@ Licences
+Q Which of the following must accompany your learner's licence application?
+- A letter from your driving school
+-* Two identical photographs, acceptable identification (and a copy) and the fee
+- Proof of vehicle ownership
+E The LL1 application must be accompanied by two identical photographs, acceptable identification and a copy, the fee, and (if you are 65 or older) a medical certificate.
+R Rules of the Road 5.4
+
+@ Licences
+Q An applicant for a learner's licence must submit a medical certificate (form MC) if they are …
+- 18 years or older
+- 50 years or older
+-* 65 years or older
+E Applicants aged 65 or older must submit a medical certificate on form MC.
+R Rules of the Road 5.4(c)
+
+@ Licences
+Q The learner's licence test covers …
+- only road traffic signs
+-* rules of the road, road traffic signs/signals/markings and the use of vehicle controls
+- only vehicle controls and first aid
+E The test covers (a) rules of the road and other legislative matters, (b) road traffic signs, signals and road markings, and (c) the use of the controls of a vehicle.
+R Rules of the Road s3
+
+@ Licences
+Q Which of the following would NOT on its own disqualify a person from obtaining a licence?
+- Uncontrolled epilepsy
+- Uncontrolled diabetes mellitus
+-* Deafness
+E The listed disqualifying conditions include uncontrolled epilepsy, sudden attacks of disabling giddiness or fainting, uncontrolled diabetes and defective vision. Deafness of itself is not deemed to be such a defect.
+R Rules of the Road 4.1(f)
+
+@ Licences
+Q You are disqualified from obtaining a learner's or driving licence if …
+- you have changed your address in the last year
+-* your licence has been suspended by a court and the suspension is still in force
+- you are older than 65
+E A person is disqualified while a suspension or disqualification ordered by a competent court or authority remains in force, or if addicted to drugs or the excessive use of alcohol, among others.
+R Rules of the Road 4.1
+
+@ Licences
+Q When you permanently change your place of residence, you must notify the registering authority within …
+- 7 days
+-* 14 days
+- 30 days
+E The holder of a licence must notify the registering authority of the new residential and postal address within 14 days.
+R Rules of the Road 5.5
+
+@ Licences
+Q When you drive a motor vehicle on a public road you must …
+-* have your licence with you in the vehicle
+- leave your licence at home to prevent theft
+- only produce your licence within 7 days if asked
+E No person may drive on a public road unless they keep their licence (or learner's licence) with them in the vehicle.
+R Rules of the Road 5.2
+
+@ Licences
+Q The owner of a vehicle may allow another person to drive it on a public road …
+- if that person is over 18
+-* only if that person is licensed to drive that vehicle
+- if that person has a learner's licence and drives alone
+E No owner or person in charge of a vehicle may permit someone to drive it unless that person is licensed to drive that vehicle.
+R Rules of the Road 5.6
+
+@ Licences
+Q Who is responsible for offences committed with a vehicle when the owner permitted someone else to use it?
+- Only the driver
+-* The owner is also responsible
+- Only the registering authority
+E The owner of a vehicle is also responsible for offences committed with the vehicle if they permitted its use.
+R Rules of the Road 5.9
+
+@ Licences
+Q A motor vehicle licence and licence disc is valid for …
+- 6 months
+-* 12 months
+- 24 months
+E The vehicle licence and disc are valid for 12 months from the first day of the month in which they were issued.
+R Rules of the Road 5.8
+
+@ Licences
+Q After your vehicle licence disc expires, there is a period of grace during which you may still drive the vehicle. How long is it?
+- 7 days
+- 14 days
+-* 21 days
+E A vehicle may be operated for 21 days after the expiry date while the expired licence disc is displayed.
+R Rules of the Road 5.8
+
+@ Licences
+Q Where must a vehicle licence disc be displayed?
+-* On the lower left-hand corner of the inside of the windscreen
+- On the rear window
+- On the lower right-hand corner of the outside of the windscreen
+E The disc is affixed to the lower left-hand corner on the inside of the windscreen (or in a disc holder).
+R Rules of the Road – definitions (licence disc)
+
+@ Licences
+Q A professional driving permit (PDP) is NOT needed by a learner driving a vehicle of a prescribed class if …
+- the learner drives only at night
+-* the learner is accompanied by a person registered as a professional driver for that class of vehicle
+- the vehicle is empty
+E A learner who drives such a vehicle while accompanied by a registered professional driver for that class does not need their own PDP.
+R Rules of the Road 5.7
+
+@ Definitions
+Q A "minibus" is a motor vehicle designed to carry …
+- not more than 9 persons including the driver
+-* more than 9 but not more than 16 persons including the driver
+- more than 16 persons including the driver
+E Motor car: not more than 9 persons. Minibus: more than 9 but not more than 16. Bus: more than 16 (all including the driver).
+R Rules of the Road – definitions
+
+@ Definitions
+Q A "bus" is a motor vehicle designed or adapted to carry more than … persons (including the driver).
+- 9
+- 12
+-* 16
+E A bus carries more than 16 persons including the driver. A midibus is a bus for more than 16 and not more than 35 persons.
+R Rules of the Road – definitions
+
+@ Definitions
+Q A "motor car" is designed to carry not more than … persons, including the driver.
+-* 9
+- 12
+- 16
+E A motor car carries not more than nine persons including the driver.
+R Rules of the Road – definitions
+
+@ Definitions
+Q What is the difference between a "junction" and an "intersection"?
+- They mean exactly the same thing
+-* A junction is the part of the intersection on the roadway; an intersection also includes sidewalks, verges, etc.
+- An intersection is only where four roads meet; a junction is where three roads meet
+E A junction is the area within the intersection on the improved part of the road (roadway). An intersection includes all parts of the roads, including sidewalks and verges.
+R Rules of the Road – definitions
+
+@ Definitions
+Q To "park" a vehicle means to keep it stationary …
+- for any period, even to load passengers
+-* for longer than reasonably necessary to load or unload persons or goods
+- only when the engine is switched off
+E "Park" means keeping a vehicle stationary for longer than is reasonably necessary to load or off-load persons or goods (not counting causes beyond the driver's control).
+R Rules of the Road – definitions
+
+@ Definitions
+Q The "shoulder" of the road is the part …
+-* between the edge of the roadway and the kerb line
+- between the kerb line and the property boundary
+- in the middle of a dual carriageway
+E The shoulder is the portion of the road between the edge of the roadway and the kerb line.
+R Rules of the Road – definitions
+
+@ Definitions
+Q The "verge" is …
+- the paved part of the road for vehicles
+-* the part of the road, including the sidewalk, that is not the roadway or the shoulder
+- the painted island in the middle of the road
+E The verge is that portion of the road, including the sidewalk, which is not the roadway or the shoulder.
+R Rules of the Road – definitions
+
+@ Definitions
+Q A "public road" includes …
+- only tarred roads maintained by the government
+-* any road or place commonly used by the public, including its verge and any bridge, ferry or drift on it
+- only freeways and national roads
+E A public road is any road, street or place commonly used by the public or to which the public has a right of access, including the verge and any bridge, ferry or drift traversed by it.
+R Rules of the Road – definitions
+
+@ Definitions
+Q What is a "light motor vehicle" (LMV)?
+- Any vehicle with fewer than four wheels
+-* A motor vehicle of which the tare/GVM is not more than 3 500 kg
+- A vehicle that can carry up to 16 persons
+E An LMV is a motor vehicle with a tare/gross vehicle mass of not more than 3 500 kg.
+R Rules of the Road – definitions
+
+@ Definitions
+Q The "gross vehicle mass" (GVM) of a vehicle is …
+- the mass of the vehicle without fuel
+-* the maximum mass of the vehicle and its load as specified by the manufacturer
+- the mass of the load only
+E GVM is the maximum mass of the vehicle and its load as specified by the manufacturer (or the registering authority).
+R Rules of the Road – definitions
+
+@ Definitions
+Q "Tare" means the mass of a vehicle …
+-* ready to travel, including the spare wheel and standard equipment, but excluding fuel
+- with a full load
+- including passengers and fuel
+E Tare is the mass of the vehicle ready to travel, including spare wheel and standard accessories, but not including fuel.
+R Rules of the Road – definitions
+
+@ Definitions
+Q A "traffic lane" is …
+- any part of the road used by pedestrians
+-* a longitudinal division of a road wide enough for a single line of vehicles
+- the area between two stop lines
+E A traffic lane is a longitudinal division of a public road of sufficient width for a single line of vehicles.
+R Rules of the Road – definitions
+
+@ Definitions
+Q Where no pedestrian crossing has been marked by a sign, which part of the road is still regarded as a pedestrian crossing?
+- Nowhere – pedestrians may only cross at marked crossings
+-* The part of the road at an intersection within the prolongation of the kerb line and the boundary line of the road
+- Any part of a road within 100 m of a school
+E At an intersection, the portion of the road within the prolongation or connection of the kerb line and adjacent boundary line is a pedestrian crossing even when not marked.
+R Rules of the Road – definitions (pedestrian crossing)
+
+@ Definitions
+Q What does "roadworthy" mean?
+- The vehicle has a valid licence disc
+-* The vehicle complies with the Act and is otherwise in a fit condition to be operated on a public road
+- The vehicle is less than 10 years old
+E A roadworthy vehicle complies with the relevant provisions of the Act and is otherwise in a fit condition to be operated on a public road.
+R Rules of the Road – definitions
+
+@ Speed
+Q Unless a sign shows otherwise, what is the general speed limit on a public road in an urban area?
+- 40 km/h
+-* 60 km/h
+- 80 km/h
+E The general speed limits are 60 km/h in urban areas, 100 km/h outside urban areas (not freeways), and 120 km/h on freeways.
+R Rules of the Road 6.27
+
+@ Speed
+Q Unless a sign shows otherwise, what is the general speed limit on a public road outside an urban area that is not a freeway?
+- 80 km/h
+-* 100 km/h
+- 120 km/h
+E 100 km/h applies to public roads outside urban areas other than freeways.
+R Rules of the Road 6.27
+
+@ Speed
+Q Unless a sign shows otherwise, what is the general speed limit on a freeway?
+- 100 km/h
+- 110 km/h
+-* 120 km/h
+E 120 km/h applies on every freeway unless a road traffic sign indicates otherwise.
+R Rules of the Road 6.27
+
+@ Speed
+Q Must the general speed limit be shown by a road traffic sign?
+- Yes, otherwise there is no speed limit
+-* No, it applies on all roads even if no sign is displayed
+- Only in urban areas
+E A general speed limit applies on all roads and does not have to be displayed by a road traffic sign.
+R Rules of the Road 6.27
+
+@ Speed
+Q What is the maximum speed for a minibus or bus conveying persons for reward?
+- 80 km/h
+-* 100 km/h
+- 120 km/h
+E A speed limit of 100 km/h applies to buses and minibuses (conveying persons for reward).
+R Rules of the Road 6.28
+
+@ Speed
+Q What is the maximum speed for a goods vehicle with a GVM of more than 9 000 kg?
+-* 80 km/h
+- 100 km/h
+- 120 km/h
+E 80 km/h applies to goods vehicles with GVM over 9 000 kg (and certain combinations), and to a breakdown vehicle towing another vehicle.
+R Rules of the Road 6.29
+
+@ Speed
+Q What is the maximum speed of a breakdown vehicle that is towing another vehicle?
+- 60 km/h
+-* 80 km/h
+- 100 km/h
+E Any breakdown vehicle towing another vehicle is limited to 80 km/h.
+R Rules of the Road 6.29
+
+@ Speed
+Q While overtaking another vehicle, which statement is correct?
+- You may exceed the speed limit by 10%
+- You may exceed the speed limit for less than 10 seconds
+-* You may not exceed the speed limit
+E Exceeding the speed limit when overtaking or passing is not permissible.
+R Rules of the Road 6.45
+
+@ Speed
+Q You are towing a vehicle with a tow-rope (not a tow-bar). What is your maximum speed?
+-* 30 km/h
+- 60 km/h
+- 80 km/h
+E You may not tow with a tow-rope or chain faster than 30 km/h unless the vehicles are connected by a draw-bar or tow-bar.
+R Rules of the Road 6.57
+
+@ Following distance
+Q What is the minimum following distance for a light motor vehicle in good conditions?
+- 1 second
+-* 2 seconds
+- 3 seconds
+E Keep at least a 2-second following distance in a light motor vehicle or on a motorcycle; 3 seconds for heavy vehicles. Increase it in bad conditions.
+R Rules of the Road 6.49
+
+@ Following distance
+Q What minimum following distance must the driver of a heavy motor vehicle keep?
+- 2 seconds
+-* 3 seconds
+- 5 seconds
+E Heavy motor vehicles: at least 3 seconds. Light vehicles and motorcycles: at least 2 seconds.
+R Rules of the Road 6.49
+
+@ Following distance
+Q When should you increase your following distance?
+- Only on freeways
+-* In rain, on slippery surfaces, in poor visibility, or when being followed too closely
+- Only when driving a heavy vehicle
+E Under adverse conditions such as rain, a slippery surface, poor visibility or when being followed too closely, increase your following distance.
+R Rules of the Road 6.49
+
+@ Following distance
+F
+Q The distance it takes to stop a vehicle is …
+(i) longer on a wet road than on a dry road
+(ii) longer if the vehicle is travelling at a higher speed
+(iii) longer if the vehicle is loaded
+Select the correct combination.
+- (i) only
+- (i) and (ii) only
+-* (i), (ii) and (iii)
+E Wet roads, higher speeds and heavier loads all increase stopping distance.
+R Vehicle Controls Manual 2.6
+
+@ Lights
+Q Between which times must your headlamps be switched on?
+- Between 18:00 and 06:00
+-* Between sunset and sunrise
+- Only after 20:00
+E Headlamps, rear lamps and number-plate lamps must be lit between sunset and sunrise, and at any other time when visibility is so poor that persons and vehicles are not clearly discernible at 150 m.
+R Rules of the Road 6.1.2
+
+@ Lights
+Q During the day you must switch on your headlamps when persons and vehicles are not clearly visible at a distance of …
+- 50 m
+- 100 m
+-* 150 m
+E Lights must be on whenever, due to insufficient light or unfavourable weather, persons and vehicles are not clearly discernible at 150 metres.
+R Rules of the Road 6.1.2
+
+@ Lights
+Q At night, your vehicle may be parked without its lights on if it is …
+- on the roadway in a rural area
+-* within 12 metres of a lighted street lamp illuminating the road
+- on the roadway, as long as the hazard lights are switched on
+E The lighting requirement does not apply to a vehicle parked off the roadway, in a parking place demarcated by a road traffic sign, or within 12 metres of a lighted street lamp illuminating the road. Hazard lights are not a substitute.
+R Rules of the Road 6.1.2
+
+@ Lights
+Q When must the headlamp of a motorcycle be switched on?
+- Only at night
+- Only in rain or fog
+-* At all times, day and night
+E When riding a motorcycle on a public road, the headlamp must be lit at all times (day and night).
+R Rules of the Road 6.1.1
+
+@ Lights
+Q When following another vehicle at night, your headlamps should be …
+- on main (bright) beam so you can see further
+-* dipped
+- switched off and parking lamps on
+E Dip your main beam for oncoming traffic and also when following another vehicle.
+R Rules of the Road 6.2
+
+@ Lights
+Q A driver who wishes to overtake a vehicle ahead that is not in the left lane may make the other driver aware of their intention by …
+- hooting continuously
+-* flashing their headlights
+- driving very close behind the vehicle
+E A driver who wants to overtake a vehicle ahead that is not in the left lane may give a visible signal by flashing the headlights.
+R Rules of the Road 6.45
+
+@ Lights
+Q Who may use an adjustable spot lamp on their vehicle?
+- Any driver at night on rural roads
+-* Emergency, police and traffic vehicles on official duty (and a few listed exceptions)
+- Anyone with a learner's licence
+E Adjustable spot lamps are not allowed except on emergency, rescue, fire, police or traffic vehicles for official purposes, medical practitioners/vets on duty, and breakdown or essential-service vehicles at a scene.
+R Rules of the Road 6.10
+
+@ Emergency vehicles
+Q You must give an immediate right of way to …
+- any vehicle displaying a yellow light
+-* emergency vehicles sounding a siren and displaying emergency warning lights
+- any vehicle that hoots behind you
+E Drivers must give immediate right of way to all emergency vehicles sounding a siren and displaying emergency warning lights.
+R Rules of the Road 6.16
+
+@ Emergency vehicles
+Q What colour warning light does a vehicle driven by a traffic officer on duty display?
+- Red
+-* Blue
+- Green
+E Fire, rescue, ambulance and emergency medical vehicles use red lights; traffic officers use blue; civil protection uses green.
+R Rules of the Road 6.16
+
+@ Emergency vehicles
+Q What colour warning light is used by an ambulance?
+-* Red
+- Blue
+- Green
+E Ambulances, fire-fighting, rescue and emergency medical response vehicles use red warning lights.
+R Rules of the Road 6.16
+
+@ Emergency vehicles
+Q What colour warning light is displayed by a vehicle engaged in civil protection?
+- Red
+- Blue
+-* Green
+E Vehicles used in civil protection show a green warning light.
+R Rules of the Road 6.16
+
+@ Seatbelts
+Q Who must wear a seatbelt while the vehicle is moving forward?
+- Only the driver
+- Only front-seat occupants
+-* The driver and all passengers (3 years and older) where seatbelts are fitted
+E The driver must ensure that all persons wear seatbelts. Rear-seat passengers must also wear fitted seatbelts. The seatbelt rule covers persons 3 years and older.
+R Rules of the Road 6.17
+
+@ Seatbelts
+Q For seatbelt purposes, who is regarded as a child?
+- Anyone under 18
+-* A person between 3 and 14 years, unless taller than 1,5 m
+- Anyone under 12
+E A child is a person aged 3 to 14 years, except if taller than 1,5 m, in which case they are regarded as an adult.
+R Rules of the Road 6.17
+
+@ Seatbelts
+Q A 12-year-old who is 1,6 m tall is regarded as …
+- a child who must sit in a child seat
+-* an adult for seatbelt purposes
+- exempt from wearing a seatbelt
+E A person between 3 and 14 who is taller than 1,5 m is regarded as an adult, irrespective of age.
+R Rules of the Road 6.17
+
+@ Seatbelts
+Q The driver must ensure that a child passenger aged 3 to 14 years …
+-* uses an appropriate child restraint where available, otherwise wears a seatbelt
+- sits on an adult's lap in the front seat
+- sits in the front seat so the driver can see them
+E The driver must ensure a child uses an appropriate child restraint where available; if not, a seatbelt. If no seat with a seatbelt is available, the child must sit on the rear seat (if the vehicle has one). A child under 3 must always be in a child restraint (reg 213(6A), 2015).
+R Rules of the Road 6.17.1
+
+@ Seatbelts
+Q When is it NOT compulsory to wear a seatbelt?
+- On short trips in town
+-* While reversing or moving in or out of a parking bay
+- When driving under 60 km/h
+E It is not compulsory to wear a seatbelt while reversing or moving into or out of a parking bay or area.
+R Rules of the Road 6.17.1
+
+@ Seatbelts
+Q An adult may sit in a seat on a row without a seatbelt only if …
+- the trip is shorter than 5 km
+-* all other seats with seatbelts on that row are already occupied
+- the driver gives permission
+E No adult may occupy a seat without a seatbelt on a row unless all other seats on that row fitted with seatbelts are already occupied.
+R Rules of the Road 6.17
+
+@ Seatbelts
+Q Who is responsible for ensuring that all passengers wear seatbelts?
+-* The driver
+- Each passenger only
+- The owner of the vehicle
+E The driver of a motor vehicle must ensure that all persons travelling in the vehicle wear a seatbelt.
+R Rules of the Road 6.17.1
+
+@ Passengers and loads
+Q May passengers ride in a caravan being towed?
+- Yes, if they are adults
+- Yes, at speeds below 60 km/h
+-* No, it is against the law
+E It is against the law for passengers to ride in a caravan.
+R Rules of the Road 6.34
+
+@ Passengers and loads
+Q Goods on the roof of a motor car may not be higher (from the highest point of the roof) than …
+- 30 cm
+-* half the height of the car measured from ground level
+- the height of the car
+E Goods on the roof of a motor car may not exceed half of the height of the car (measured from the ground). This does not apply to bicycles on the roof.
+R Rules of the Road 6.33
+
+@ Passengers and loads
+Q A load projecting more than 150 mm to the side or 300 mm to the rear must be marked during the day with …
+- a white light
+-* a red flag (300 mm × 300 mm)
+- a hazard triangle
+E Such loads must be marked with a red flag (300 mm × 300 mm) by day and with retro-reflectors at night (white to the front, red to the rear).
+R Rules of the Road 6.36
+
+@ Passengers and loads
+Q At night, a load projecting beyond the rear of a vehicle must be marked with …
+- a red flag
+- a white reflector
+-* a red retro-reflector
+E At night, projecting loads must have white retro-reflectors to the front and red retro-reflectors to the rear.
+R Rules of the Road 6.36
+
+@ Passengers and loads
+Q A load on a light motor vehicle may not project beyond the rear of the vehicle by more than …
+- 300 mm
+- 1 m
+-* 1,8 m
+E Goods may not project more than 300 mm beyond the front or more than 1,8 m beyond the rear of a light or heavy motor vehicle.
+R Rules of the Road 6.35
+
+@ Passengers and loads
+Q A load on a motor vehicle may not project beyond the front of the vehicle by more than …
+-* 300 mm
+- 600 mm
+- 1,8 m
+E Goods may not project more than 300 mm beyond the front end or 1,8 m beyond the rear end.
+R Rules of the Road 6.35
+
+@ Passengers and loads
+Q Goods loaded on a light motor vehicle may not make the overall width of the load more than …
+- 2,3 m
+-* 2,5 m
+- 2,6 m
+E Goods may not project more than 1,25 m on either side of the centre line (max width 2,5 m); 1,3 m (max 2,6 m) for buses and goods vehicles with GVM over 12 000 kg.
+R Rules of the Road 6.35
+
+@ Passengers and loads
+Q Goods must be loaded on a vehicle so that they do NOT …
+- extend above the cab
+-* obscure the driver's view to the front or sides, or the view in the rear-view mirrors
+- touch the side of the load bay
+E Loads must not touch the road, obscure the driver's view to the front, sides or in the mirrors, and must be contained or securely fastened so they cannot fall off.
+R Rules of the Road 6.33
+
+@ Passengers and loads
+Q Persons carried seated on the back of a goods vehicle must be enclosed to a height of at least …
+-* 350 mm above the surface they sit on
+- 900 mm above the surface they sit on
+- 1,2 m above the floor
+E The area must be enclosed to at least 350 mm above the surface where they are seated, or 900 mm above the surface where they are standing.
+R Rules of the Road 6.34
+
+@ Passengers and loads
+Q Persons carried standing on the back of a goods vehicle must be enclosed to a height of at least …
+- 350 mm
+-* 900 mm
+- 1,5 m
+E 900 mm above the surface on which they stand (350 mm if seated).
+R Rules of the Road 6.34
+
+@ Passengers and loads
+Q While driving, you may NOT …
+- have a passenger in the front seat
+-* allow any person, animal or object to be in a position that prevents you from having complete control of the vehicle
+- open the window
+E A driver may not permit any person, animal or object to occupy a position that prevents complete control of the vehicle, or allow anyone to hold or interfere with the steering or operating mechanism.
+R Rules of the Road 6.49
+
+@ Passengers and loads
+Q While the vehicle is in motion, you may allow a person to ride …
+- on the roof if they hold on tightly
+- on the running board for short distances
+-* only inside the vehicle in a proper position (never on the roof, step or running board)
+E No person or animal may occupy the roof, any step or running board, or any other place on top of the vehicle while it is in motion.
+R Rules of the Road 6.49
+
+@ Passengers and loads
+Q You may allow part of your body to protrude from the vehicle while it is moving only …
+- to wave at a friend
+-* to give a hand signal
+- never, under any circumstances
+E A driver may not allow any part of their body to protrude beyond the vehicle while it is moving, except to give a hand signal.
+R Rules of the Road 6.49
+
+@ Overtaking
+Q You normally overtake a vehicle travelling in the same direction …
+- on the left
+-* on the right, at a safe distance
+- on whichever side has more space
+E Pass to the right at a safe distance, and do not move back to the left until you are safely clear of the vehicle you passed.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q You may overtake on the left of another vehicle if …
+- the driver ahead is driving too slowly
+-* the vehicle ahead is turning right (or has signalled to turn right) and it is safe
+- there is a gravel shoulder you can use
+E Passing on the left is allowed when it is safe and, for example, the vehicle ahead is turning right, or on a multi-lane one-way road, or on an urban road with two or more lanes in each direction, or when directed by a traffic officer.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q May you overtake by driving on the shoulder or verge of the road?
+- Yes, if the shoulder is tarred
+- Yes, in daylight
+-* No, never
+E In no event may passing be done by driving on the shoulder of the roadway or the verge of a public road.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q You may NOT overtake when approaching …
+- a straight stretch of road
+-* the top of a rise, a curve or any place where your view is restricted
+- a 100 km/h speed limit sign
+E Do not overtake when approaching the summit of a rise, a curve or any place where the view is restricted, unless you can do so without moving onto the right-hand side or the road is one-way.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q When another vehicle is overtaking you, you must …
+- accelerate so it can pass quickly
+-* keep as far left as safely possible and not accelerate until it has passed
+- move to the right to block it
+E Drive as near to the left edge as is safely possible and do not increase speed until the other vehicle has passed.
+R Rules of the Road 6.38 & 6.45
+
+@ Overtaking
+Q On a freeway you should …
+- overtake on the left if the left lane is empty
+-* keep left and overtake on the right
+- stay in the right lane at all times
+E Vehicles must keep left and overtake to the right on any freeway.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q When passing a stationary bus, you must …
+- hoot to warn passengers
+-* take due care for the safety of people getting on or off the bus
+- speed up to pass as quickly as possible
+E A driver intending to pass a stationary bus must do so with due care for people approaching, leaving or who may approach or leave the bus.
+R Rules of the Road 6.38 & 6.45
+
+@ Overtaking
+Q Which rule applies to two or more motorcyclists riding in the same lane?
+- They may ride side by side at all times
+-* They may not overtake another vehicle at the same time
+- They may overtake on the shoulder
+E Motorcyclists must ride in single file (except when overtaking another motorcycle), and two or more motorcyclists may not overtake another vehicle at the same time.
+R Rules of the Road 6.50
+
+@ Road position
+Q On a road with a single roadway, you must drive …
+-* on the left side of the roadway, not encroaching on the right half unless it can be done safely
+- in the centre of the road
+- on whichever side is smoother
+E Drive on the left side of the roadway and do not encroach on the right half unless it can be done without obstructing or endangering other traffic, or as directed by a sign or officer.
+R Rules of the Road 6.38
+
+@ Road position
+Q On a road divided into two or more roadways (a dual carriageway), you must drive …
+- on any roadway that is less busy
+-* on the left-hand roadway, unless a sign or traffic officer directs otherwise
+- on the right-hand roadway when overtaking
+E Where a public road is divided into two or more roadways, you must drive on the left-hand roadway unless directed or permitted otherwise.
+R Rules of the Road 6.37
+
+@ Road position
+Q When may you drive a light motor vehicle on the shoulder of the road?
+- Whenever traffic is slow
+-* Between sunrise and sunset, on a road with one lane in each direction, while being overtaken, if it is safe and visibility is at least 150 m
+- At night when there are no street lights
+E You may only use the shoulder during the day on a road with one lane in each direction, while being overtaken, when it is safe and when persons and vehicles are clearly visible at 150 m.
+R Rules of the Road 6.39
+
+@ Road position
+Q You may change from one lane to another …
+- whenever you have signalled
+-* only if you can do so without obstructing or endangering other traffic
+- only at intersections
+E On roads divided into lanes, you may not change lanes unless you can do so without obstructing or endangering other traffic. You must use your indicator.
+R Rules of the Road 6.40 & 6.42
+
+@ Road position
+Q Is it compulsory to use your direction indicator when changing lanes?
+-* Yes, it is compulsory when turning and when changing lanes
+- No, only when turning at an intersection
+- Only on freeways
+E It is compulsory to use direction indicators each time you turn left or right and when changing lanes.
+R Rules of the Road 6.42
+
+@ Road position
+Q A driver who intends to stop or turn must give a signal …
+- only if other traffic is close
+-* in good time, clearly visible, and long enough to warn other road users
+- after starting the manoeuvre
+E Signal in good time with a conspicuous signal visible to persons in front, behind or to the side, for long enough to warn them.
+R Rules of the Road 6.41
+
+@ Road position
+Q You may let your vehicle travel backwards (reverse) …
+- only in parking areas
+-* only if it can be done in safety
+- never on a public road
+E You may not cause your vehicle to travel backwards unless it can be done in safety.
+R Rules of the Road 6.49
+
+@ Road position
+Q You want to move off from the side of the road where you were parked. You may only do so if …
+-* you can do so without interfering with moving traffic and with safety
+- you hoot first
+- you switch on your hazard lights
+E A driver may not drive from a parked position unless able to do so without interfering with moving traffic and with safety to themselves and others.
+R Rules of the Road 6.49
+
+@ Road position
+Q You may cross or enter a public road …
+- if you signal and move slowly
+-* only if it is clear of moving traffic for a sufficient distance and you can do so safely
+- as long as you have right of way
+E Do not cross a road unless it is clear of moving traffic for a sufficient distance, and do not enter a road unless you can do so safely.
+R Rules of the Road 6.59
+
+@ Road position
+Q You may drive on a sidewalk …
+- to pass a stationary vehicle
+- to park in front of a shop
+-* never – you may not drive, pull or push a vehicle on a sidewalk
+E No person may drive, pull or push a vehicle on a sidewalk.
+R Rules of the Road 6.49
+
+@ Intersections
+Q Unless a road traffic sign or traffic officer directs otherwise, at a traffic circle (where traffic moves around an island) you must yield to …
+- vehicles approaching from the left
+-* vehicles approaching from the right within the junction
+- all vehicles, including those behind you
+E Unless signs or a traffic officer direct otherwise, yield to all vehicles approaching from your right within the traffic circle junction. At a mini-circle with a "yield at traffic circle" sign (R2.2), the vehicle that reaches its yield line first may proceed first.
+R Rules of the Road 6.46
+
+@ Intersections
+Q At a 4-way stop, which vehicle may move off first?
+- The vehicle on the right
+- The largest vehicle
+-* The vehicle that stopped first
+E At a 3- or 4-way stop, the vehicle that stopped first moves off first. Proceed only when safe.
+R Road Traffic Signs 3.1 (R1.3/R1.4)
+
+@ Intersections
+Q At a stop sign where there is no stop line, you must stop …
+- anywhere before the intersection
+-* with the front of your vehicle in line with the stop sign
+- with the rear of your vehicle in line with the stop sign
+E Stop behind the stop line; if there is no line, the front of the vehicle must come to a standstill in line with the stop sign.
+R Road Traffic Signs 3.1 (R1.1)
+
+@ Intersections
+Q Whenever a vehicle has stopped at a pedestrian crossing, the driver of any other vehicle …
+- may pass it carefully on the right
+-* may not pass the stopped vehicle
+- must hoot to warn pedestrians
+E When a vehicle has stopped at a pedestrian crossing, other drivers may not pass it.
+R Rules of the Road 6.53
+
+@ Intersections
+Q A pedestrian is crossing within a pedestrian crossing. You must …
+- hoot so they hurry up
+-* yield right of way, slowing down or stopping if necessary
+- drive around them carefully
+E Drivers must yield to pedestrians crossing within a pedestrian crossing, slowing down or stopping if needed.
+R Rules of the Road 6.53
+
+@ Intersections
+Q The "red man" light signal flashes. Pedestrians who have already entered the roadway should …
+- return to the sidewalk
+-* cross as quickly as possible
+- wait in the middle of the road
+E If the red man flashes, pedestrians who have not yet entered the roadway must wait for the green man; those already crossing must cross as quickly as possible.
+R Rules of the Road 6.53
+
+@ Parking
+Q You may not park within … of a fire hydrant (on the same side of the road).
+- 1 m
+-* 1,5 m
+- 5 m
+E Do not park within 1,5 m on either side of a fire hydrant on the same side of the road.
+R Rules of the Road 6.47
+
+@ Parking
+Q In an urban area, you may not park within … of an intersection.
+- 1,5 m
+-* 5 m
+- 9 m
+E In an urban area, do not park within 5 m of any intersection.
+R Rules of the Road 6.47
+
+@ Parking
+Q In an urban area, you may not park within … of the side from which you approach a pedestrian crossing.
+- 5 m
+-* 9 m
+- 12 m
+E Do not park within 9 m of the approach side of a pedestrian crossing (and do not stop there either).
+R Rules of the Road 6.47 & 6.48
+
+@ Parking
+Q When parking on the roadway in an urban area, the outside of your left-hand wheels may not be more than … from the edge of the roadway.
+- 150 mm
+-* 450 mm
+- 1 m
+E Do not park with the outside of any left-hand wheel more than 450 mm within the roadway.
+R Rules of the Road 6.47
+
+@ Parking
+Q In an urban area you may not park on a roadway that is less than … wide.
+- 4,5 m
+-* 5,5 m
+- 9 m
+E Do not park on the roadway in an urban area where the roadway is less than 5,5 m wide.
+R Rules of the Road 6.47
+
+@ Parking
+Q Outside an urban area, you may not park on the roadway (excluding shoulders) or with any part of your vehicle within … of the edge of the roadway.
+-* 1 m
+- 5 m
+- 9 m
+E Outside urban areas, do not park on any part of the roadway or with any part of the vehicle within 1 m of the edge of the roadway.
+R Rules of the Road 6.47
+
+@ Parking
+Q Where may you NOT park?
+- In a demarcated parking bay
+-* Where your vehicle would obscure a road traffic sign
+- Off the road, on a property where the owner has given you permission
+E You may not park where your vehicle would obscure a road traffic sign, nor where it encroaches on a sidewalk, blocks a vehicle entrance, or contravenes a sign.
+R Rules of the Road 6.47
+
+@ Parking
+Q You may NOT park …
+- in a parking bay marked for you
+-* on a traffic island, in a pedestrian mall or pedestrian lane
+- on the left side of a one-way street in a demarcated bay
+E In an urban area you may not park on a traffic island or in a pedestrian mall or lane, or over the actuating mechanism of a traffic signal.
+R Rules of the Road 6.47
+
+@ Parking
+Q When you leave your vehicle unattended, you must …
+-* set the parking brake (or otherwise prevent it from moving) and switch off the engine
+- leave the engine running so the battery does not go flat
+- leave it in neutral
+E Do not leave a vehicle unattended without setting its brake, and do not let the engine run while the vehicle is stationary and unattended.
+R Rules of the Road 6.49
+
+@ Parking
+Q When parking in an angle-parking bay, the front of the vehicle may not be further than … from the kerb.
+- 50 mm
+-* 150 mm
+- 450 mm
+E In angle parking, park with the front not further than 150 mm from the kerb, and no part of the vehicle on or over the sidewalk.
+R Road Traffic Signs 7.1 (RM6)
+
+@ Stopping
+Q You may not stop on any bridge or within … of a tunnel, subway or bridge.
+- 3 m
+-* 6 m
+- 9 m
+E Do not stop in a tunnel, subway or on a bridge, or within 6 m of one (except to avoid an accident, obey an officer, or for a cause beyond your control).
+R Rules of the Road 6.48
+
+@ Stopping
+Q You may not stop alongside or opposite another vehicle on a roadway that is less than … wide.
+- 5,5 m
+-* 9 m
+- 12 m
+E Do not stop alongside or opposite another vehicle where the roadway is less than 9 m wide.
+R Rules of the Road 6.48
+
+@ Stopping
+Q Where may you NOT stop your vehicle?
+- On the left side of the roadway, facing the same direction as the traffic
+-* On the right-hand side of the roadway facing oncoming traffic
+- In a parking bay
+E Do not stop on the right-hand side of the roadway facing oncoming traffic.
+R Rules of the Road 6.48
+
+@ Stopping
+Q You may not stop within the railway reserve at a level crossing …
+-* at any time, except to avoid an accident, on an officer's direction or for a cause beyond your control
+- unless a train is coming
+- during the day
+E Stopping is prohibited within the railway reserve at a level crossing.
+R Rules of the Road 6.48
+
+@ Stopping
+Q You may not stop within … of the beginning or end of a part of the roadway where its normal width is constricted.
+- 3 m
+-* 6 m
+- 12 m
+E Do not stop on, or within 6 m of the beginning or end of, any part of a roadway where its normal width has been constricted.
+R Rules of the Road 6.48
+
+@ Stopping
+Q You MUST stop your vehicle …
+- whenever a pedestrian is on the sidewalk
+-* at the request or signal of a person leading or driving animals such as cattle or horses on the road
+- when another driver flashes their lights at you
+E You must stop when directed by a sign or uniformed traffic officer, at the request of a person leading animals on the road, and when animals are crossing (wait until they have all crossed).
+R Rules of the Road 6.60
+
+@ Stopping
+Q Animals are crossing the road ahead of you. You must …
+- hoot to chase them off the road
+- drive slowly between them
+-* stop and wait until all the animals have crossed and it is safe to continue
+E When animals are seen crossing the road, stop and only move once all animals have crossed and it is safe.
+R Rules of the Road 6.60
+
+@ Stopping
+Q You are legally required to stop when directed to do so by a traffic officer who is …
+- dressed in plain clothes
+-* in uniform
+- standing on the sidewalk only
+E You must stop when directed by a road traffic sign or by a traffic officer in uniform.
+R Rules of the Road 6.60
+
+@ Breakdowns
+Q Which of the following vehicles is NOT legally required to carry an emergency warning sign (triangle)?
+- A minibus
+- A goods vehicle
+-* A motor car
+E Heavy motor vehicles, all goods vehicles, minibuses and buses must carry at least one emergency warning sign. Motor cars, ambulances and motorcycles are excluded, although carrying one in a car is still good practice.
+R Rules of the Road 6.24
+
+@ Breakdowns
+Q When a motor vehicle is stationary on the roadway (for example after a breakdown), the emergency warning triangle must be placed at least … from the vehicle in the direction of approaching traffic.
+- 15 m
+-* 45 m
+- 100 m
+E Place the triangle not less than 45 m from the vehicle in the direction from which traffic will approach, about as far from the edge as the centre of the vehicle, with the reflective side facing the traffic.
+R Rules of the Road 6.24
+
+@ Breakdowns
+Q Which side of the emergency warning triangle must face approaching traffic?
+- The side with the manufacturer's name
+-* The reflective side
+- It does not matter
+E The reflective side of the sign faces the direction from which traffic will approach.
+R Rules of the Road 6.24
+
+@ Breakdowns
+Q Your vehicle breaks down on a road with a left-edge line. You should …
+- stop in the middle of the lane
+-* stop as far left from the line as possible and switch on your emergency (hazard) lights
+- leave the vehicle and walk away without warning anyone
+E If your vehicle breaks down, stop as far left of the edge line as possible and switch on your emergency lights.
+R Road Traffic Signs 7.1 (RM4.1)
+
+@ Accidents
+Q If you are involved in an accident, you must first …
+-* stop your vehicle immediately
+- move your vehicle off the road before checking anything
+- phone your insurance company
+E You must stop immediately, find out whether anyone is injured, assist injured persons, and determine the damage.
+R Rules of the Road 6.62
+
+@ Accidents
+Q If you did not give your details to a traffic officer at the scene, you must report the accident at a police station within …
+- 12 hours
+-* 24 hours
+- 7 days
+E If you did not furnish your details to a traffic officer at the scene, report the accident at a police station within 24 hours.
+R Rules of the Road 6.62
+
+@ Accidents
+Q After an accident, before you have reported it, you may not …
+- drink water
+-* take intoxicating liquor or drugs, except on a medical practitioner's instruction
+- speak to other drivers
+E Do not take intoxicating liquor or narcotic drugs (except on a doctor's instruction) before you have reported the accident.
+R Rules of the Road 6.62
+
+@ Accidents
+Q After an accident in which a person was killed or injured, and the vehicles completely block the road, you may move a vehicle only if …
+- the other driver agrees
+-* its position has been clearly marked on the road surface, or a traffic officer authorises it
+- an hour has passed
+E A vehicle may not be moved unless its position has been clearly marked on the road surface or the removal is authorised by a traffic officer.
+R Rules of the Road 6.62
+
+@ Accidents
+Q At an accident, anyone with reasonable grounds may ask you for …
+- your bank details
+-* your name and address, the owner's name and address, and the vehicle's registration number
+- your employer's details only
+E You must give your name and address, the owner's name and address and the registration number to anyone with reasonable grounds to request them.
+R Rules of the Road 6.62
+
+@ Accidents
+Q Who must give permission before a vehicle damaged in a collision may be removed from the scene (e.g. by a tow truck)?
+- Any tow-truck operator
+-* The driver or owner of the vehicle
+- The first person to arrive at the scene
+E The driver or owner of a vehicle damaged in a collision must give permission before it can be removed from the scene.
+R Rules of the Road 6.62
+
+@ Alcohol and drugs
+Q What is the legal limit of alcohol in the blood for an ordinary (non-professional) driver?
+- Less than 0,08 g per 100 ml
+-* Less than 0,05 g per 100 ml
+- Less than 0,02 g per 100 ml
+E You may not drive with a blood alcohol concentration of 0,05 g per 100 ml or more (0,02 g for professional drivers).
+R Rules of the Road 6.65
+
+@ Alcohol and drugs
+Q What is the legal blood alcohol limit for a professional driver?
+- Less than 0,05 g per 100 ml
+-* Less than 0,02 g per 100 ml
+- Professional drivers may not drink at all for 24 hours before driving
+E For professional drivers (PDP holders) the limit is 0,02 g per 100 ml of blood.
+R Rules of the Road 6.65
+
+@ Alcohol and drugs
+Q Under the influence of alcohol or a narcotic drug, you may not …
+- drive a vehicle, but you may sit in the driver's seat with the engine running
+-* drive a vehicle or occupy the driver's seat of a motor vehicle while the engine is running
+- drive in an urban area, but you may drive on a rural road
+E You may not drive, or occupy the driver's seat of a motor vehicle with the engine running, while under the influence of intoxicating liquor or a narcotic drug.
+R Rules of the Road 6.65
+
+@ Alcohol and drugs
+Q What is the legal limit of alcohol in a breath specimen for an ordinary (non-professional) driver?
+- Less than 0,10 mg per 1 000 ml
+-* Less than 0,24 mg per 1 000 ml
+- Less than 0,50 mg per 1 000 ml
+E Ordinary drivers: under 0,24 mg per 1 000 ml of breath (0,05 g per 100 ml of blood). Professional drivers: under 0,10 mg per 1 000 ml of breath (0,02 g per 100 ml of blood).
+R National Road Traffic Act s65 (breath limits are not in the 2012 manual)
+
+@ Alcohol and drugs
+Q What is the legal limit of alcohol in a breath specimen for a professional driver?
+-* Less than 0,10 mg per 1 000 ml
+- Less than 0,24 mg per 1 000 ml
+- Less than 0,05 mg per 1 000 ml
+E Professional drivers: under 0,10 mg per 1 000 ml of breath (0,02 g per 100 ml of blood).
+R National Road Traffic Act s65 (breath limits are not in the 2012 manual)
+
+@ Seatbelts
+Q A baby younger than 3 years is travelling in your private car. The law requires that the infant …
+- sits on an adult's lap with the adult's seatbelt around both of them
+-* is seated in an appropriate child restraint
+- sits on the back seat without any restraint
+E Since 2015 (regulation 213(6A)) the driver must ensure that an infant under 3 years is seated in an appropriate child restraint. Minibuses, midibuses and buses carrying passengers for reward are exempt.
+R National Road Traffic Regulations reg 213(6A) (amendment after the 2012 manual)
+
+@ Cell phones
+Q While driving, you may use a cellphone …
+- if you hold it in one hand and steer with the other
+- only while stopped at a red traffic light, holding it
+-* only if you do not hold it in your hand or with any other part of your body (e.g. hands-free)
+E No person may drive while holding a cellular phone or other communication device in one or both hands or with any other part of the body.
+R Rules of the Road 6.52
+
+@ Freeways
+Q Which of the following may NOT be used on a freeway?
+- A light motor vehicle towing a trailer
+-* A motorcycle with an engine of 50 cm³ or less
+- A minibus taxi
+E Prohibited on freeways: animal-drawn vehicles, pedal cycles, motorcycles of 50 cm³ or less (or electrically powered), motor quadrucycles, vehicles for disabled persons under 230 kg, and tractors (except for freeway work).
+R Rules of the Road 6.56
+
+@ Freeways
+Q Which of the following is NOT allowed on a freeway?
+- A bus
+-* A pedal cycle
+- A goods vehicle
+E Pedal cycles may not be used on a freeway. Pedestrians may not be on a freeway under normal circumstances either.
+R Rules of the Road 6.56
+
+@ Freeways
+Q When may you stop on a freeway?
+- To pick up a hitch-hiker
+- To answer your cellphone
+-* For a reason beyond your control, in a designated stopping area, or as directed by a sign or traffic officer
+E You may only stop on a freeway as directed by a sign or officer, in an area reserved for stopping or parking, or for reasons beyond your control.
+R Rules of the Road 6.56
+
+@ Freeways
+Q When may you give a hand signal while driving on a freeway?
+- When changing lanes
+-* Only for a reason beyond your control
+- Whenever your indicators are switched off
+E You may not give a hand signal on a freeway except for a reason beyond your control.
+R Rules of the Road 6.56
+
+@ Freeways
+Q You are driving on a freeway and a vehicle ahead wants to merge from an on-ramp. You must …
+- speed up so it merges behind you
+-* allow the vehicle to merge in front of you
+- hoot to warn the driver
+E A driver on the freeway who notices a vehicle in front wishing to merge from an on-ramp must allow it to merge in front of them.
+R Rules of the Road 6.56
+
+@ Freeways
+Q Which statement about animals and freeways is correct?
+- An animal may be on a freeway if it is tied up
+-* You may not leave an animal anywhere from where it may stray onto a freeway
+- An animal may be left on the freeway verge
+E No person may leave or allow an animal on a freeway, or leave an animal where it may stray onto a freeway.
+R Rules of the Road 6.56
+
+@ Towing
+Q What is the maximum length of a tow-rope, chain or tow-bar between two vehicles?
+- 1,8 m
+-* 3,5 m
+- 5 m
+E You may not tow if the tow-rope, chain or tow-bar between the vehicles is longer than 3,5 m.
+R Rules of the Road 6.57
+
+@ Towing
+Q May a motorcycle be used to tow another vehicle?
+- Yes, if it has an engine over 125 cm³
+- Yes, at speeds below 30 km/h
+-* No
+E No person shall use a motorcycle to tow another vehicle.
+R Rules of the Road 6.57
+
+@ Towing
+Q A towed vehicle (not a semi-trailer) may carry passengers only if …
+-* the speed does not exceed 30 km/h
+- the tow-rope is shorter than 3,5 m
+- it is daytime
+E A towed vehicle conveying persons may not be towed faster than 30 km/h unless it is a semi-trailer.
+R Rules of the Road 6.57
+
+@ Towing
+Q The steering of a vehicle being towed must be controlled by …
+- any adult passenger
+-* a person who holds a driving licence for that class of vehicle
+- nobody if a tow-bar is used
+E The steering of the towed vehicle must be controlled by a person licensed to drive that class of vehicle.
+R Rules of the Road 6.57
+
+@ Towing
+Q A combination of motor vehicles may consist of a drawing vehicle and a maximum of …
+- one trailer
+-* two trailers
+- three trailers
+E A combination is restricted to a drawing vehicle and a maximum of two trailers (or one other motor vehicle that is not a trailer).
+R Rules of the Road 6.58
+
+@ General duties
+Q You may run the engine of your vehicle while fuel is being put into its tank …
+- if it is a diesel vehicle
+- for less than one minute
+-* never
+E No person may allow the engine to run while petrol or other flammable fuel is being delivered into the tank.
+R Rules of the Road 6.49
+
+@ General duties
+Q You must give an immediate and absolute right of way to …
+- a vehicle sounding a hooter
+-* an emergency vehicle sounding a siren or bell
+- the vehicle with the most passengers
+E Drivers must give an immediate and absolute right of way to a vehicle sounding a device or bell (emergency vehicles).
+R Rules of the Road 6.49 & 6.16
+
+@ General duties
+Q Unless a traffic officer orders you otherwise, you must …
+-* obey all road traffic signs and rules of the road
+- obey only the signs you agree with
+- obey signs only in urban areas
+E No person may disobey any road traffic sign or rule of the road unless ordered to do so by a traffic officer.
+R Rules of the Road 6.49
+
+@ General duties
+Q Which of the following is an offence?
+- Driving with the windows open
+-* Driving a vehicle without reasonable consideration for other road users
+- Driving at the general speed limit
+E No person may drive a vehicle on a public road without reasonable consideration for any other person using the road (inconsiderate driving).
+R Rules of the Road 6.63
+
+@ General duties
+Q Driving in a manner that wilfully disregards the safety of persons or property is …
+- inconsiderate driving
+-* reckless or negligent driving
+- allowed in an emergency
+E No person may drive recklessly or negligently or in a manner that wilfully disregards the safety of persons or property.
+R Rules of the Road 6.64
+
+@ General duties
+Q May you throw litter, oil or other refuse from your vehicle onto the road?
+- Yes, if it is biodegradable
+- Only outside urban areas
+-* No
+E No person may negligently or wilfully deposit fuel, oil, grease, flammable or offensive matter, ashes or refuse from a vehicle on or next to the road.
+R Rules of the Road 6.49
+
+@ General duties
+Q You may cause the wheels of your vehicle to spin or drag on the road surface …
+- when pulling away quickly
+-* only in an emergency
+- whenever the road is wet
+E You may not cause a wheel to drag or spin on the road surface except in an emergency.
+R Rules of the Road 6.55
+
+@ General duties
+Q A vehicle left in the same place on a public road outside an urban area for more than … is deemed abandoned.
+-* 24 hours
+- 7 days
+- 30 days
+E Outside an urban area: 24 hours. Within an urban area: 7 days.
+R Rules of the Road 6.54
+
+@ General duties
+Q A vehicle left in the same place on a public road in an urban area for more than … is deemed abandoned.
+- 24 hours
+-* 7 days
+- 14 days
+E Within an urban area: 7 days. Outside an urban area: 24 hours.
+R Rules of the Road 6.54
+
+@ General duties
+Q You may operate a vehicle on a public road in a manner that causes excessive noise …
+- only during the day
+- only in rural areas
+-* never
+E No person shall operate a vehicle on a public road in a way that causes any excessive noise.
+R Rules of the Road 6.25
+
+@ Motorcycles
+Q When riding a motorcycle, the rider must …
+-* keep at least one hand on the handlebars at all times
+- keep both feet on the ground when moving slowly
+- carry passengers in front of them
+E A rider must keep at least one hand on the handlebars, sit astride the saddle, keep feet on the footrests, and keep all wheels in contact with the road.
+R Rules of the Road 6.50
+
+@ Motorcycles
+Q To carry a passenger on a motorcycle, the engine capacity must exceed …
+- 30 cm³
+-* 50 cm³
+- 125 cm³
+E A rider may not carry a passenger unless the engine exceeds 50 cm³ and the passenger sits in a side-car or astride on a pillion.
+R Rules of the Road 6.50
+
+@ Motorcycles
+Q On which side of a motorcycle must a side-car be attached?
+-* The left side
+- The right side
+- Either side
+E A side-car must be attached to the left side of the motorcycle.
+R Rules of the Road 6.51
+
+@ Motorcycles
+Q Who must wear a protective helmet on a motorcycle?
+- Only the rider
+- Only passengers under 14
+-* The rider and any passenger (including a side-car passenger)
+E The rider and passengers (including a side-car passenger) must wear a properly fitted helmet with the chin strap fastened. The rider must ensure passengers under 14 wear one.
+R Rules of the Road 6.18
+
+@ Motorcycles
+Q A motorcycle must have …
+- one brake acting on both wheels
+-* two independent braking systems, one on the front wheel and one on the rear wheel
+- only a front brake
+E A motorcycle must have two independent braking systems, one acting on the front wheel and one on the rear wheel(s).
+R Rules of the Road 6.14.1
+
+@ Motorcycles
+Q How many persons may ride on a motorcycle (excluding a side-car)?
+- One
+-* Two
+- Three
+E Not more than two persons may ride on a motorcycle, excluding a person in a side-car.
+R Rules of the Road 6.50
+
+@ Vehicle requirements
+Q How many number plates must a motor car have?
+- One, at the rear
+-* Two: one at the front and one at the rear
+- One, at the front
+E A motorcycle, motor tricycle or trailer has a plate at the back. All other motor vehicles have one at the back and one at the front.
+R Rules of the Road 6.8
+
+@ Vehicle requirements
+Q A number plate must be fitted upright or within … of upright.
+- 15°
+-* 30°
+- 45°
+E A number plate must be affixed in an upright position or within 30 degrees of upright, not easily detachable, clearly legible and visible.
+R Rules of the Road 6.8
+
+@ Vehicle requirements
+Q Your vehicle's engine must not run …
+- while the vehicle is moving
+-* while the vehicle is stationary and unattended
+- at more than 3 000 rpm
+E No driver may allow the engine to run while the vehicle is stationary and unattended.
+R Rules of the Road 6.49
+
+@ Vehicle requirements
+Q A motor vehicle may not be used on a public road if …
+- it has a fuel cap
+-* its fuel tank, fuel pipes, wiring or battery are defective or exposed so that they are a source of danger
+- its battery is more than two years old
+E Fuel tanks, carburettor and fuel pipes may not be defective or exposed so as to be dangerous; the tank must have an effective cap; wiring and battery must be properly installed, insulated and maintained.
+R Rules of the Road 6.22
+
+@ Vehicle requirements
+Q The maximum overall width of a light motor vehicle is …
+- 2,3 m
+-* 2,5 m
+- 2,6 m
+E Any vehicle (other than the listed buses and heavy goods vehicles) may not exceed an overall width of 2,5 m.
+R Rules of the Road 6.32
+
+@ Vehicle requirements
+Q The maximum overall height of a vehicle (other than a double-deck bus), including its load, is …
+- 4,0 m
+-* 4,3 m
+- 4,65 m
+E 4,3 m for vehicles in general; 4,65 m for a double-deck bus.
+R Rules of the Road 6.31
+
+@ Vehicle requirements
+Q Apart from the listed exceptions (certain trailers, articulated vehicles, bus-trains and combinations), the maximum overall length of a vehicle is …
+- 10 m
+-* 12,5 m
+- 18,5 m
+E Most single vehicles: 12,5 m. Articulated vehicle: 18,5 m. Combination or bus-train: 22 m.
+R Rules of the Road 6.30
+
+@ Vehicle requirements
+Q What is the maximum overall length of a combination of motor vehicles?
+- 12,5 m
+- 18,5 m
+-* 22 m
+E Any combination of motor vehicles: 22 m. Articulated vehicle: 18,5 m.
+R Rules of the Road 6.30
+
+@ Hand signals and officers
+Q A traffic officer's hand signals …
+- apply only when the traffic light is broken
+-* take precedence over any other traffic signal
+- may be ignored if the light is green
+E The traffic officer's signals take precedence over any other traffic signal. Follow the officer's directions strictly.
+R Road Traffic Signs 8.1 (SS1)
+
+@ Hand signals and officers
+Q At road works, a flagman gives you the "stop" flag signal. You must …
+-* stop until the "proceed" flag signal is shown
+- slow down and proceed carefully
+- hoot and continue
+E A stop flag signal means stop until the proceed flag signal is displayed. A warning flag means proceed slowly and be alert.
+R Road Traffic Signs 8.1 (SS2)
+
+# ---- Added after gap check against third-party sample tests (original wording). Combination-style
+# questions mirror the "(i), (ii), (iii)" format used in the real test.
+
+@ Overtaking
+F
+Q You may NOT overtake a vehicle travelling in the same direction when you are approaching …
+(i) the top of a rise
+(ii) a curve
+(iii) a place where dust or smoke limits your view of oncoming traffic
+- (i) and (ii) only
+- (iii) only
+-* (i), (ii) and (iii)
+E Do not pass when approaching the summit of a rise, a curve, or any other place where the view is so restricted that passing could endanger oncoming traffic (unless you stay out of the right-hand side, or the road is one-way).
+R Rules of the Road 6.45
+
+@ Overtaking
+F
+Q You may pass another vehicle on its LEFT if it is safe and …
+(i) the vehicle ahead is turning right or has signalled that it will turn right
+(ii) you are on a one-way road in an urban area that is wide enough for two or more lines of traffic
+(iii) you drive on the shoulder of the road to do it
+-* (i) and (ii) only
+- (ii) and (iii) only
+- (i), (ii) and (iii)
+E Passing on the left is allowed when the vehicle ahead is turning right, on suitable multi-lane urban roads, on one-way roads divided into lanes, or when a traffic officer directs it. You may never pass by driving on the shoulder or verge.
+R Rules of the Road 6.45
+
+@ Overtaking
+Q Another vehicle is overtaking you. Which statement is correct?
+-* Keep as far left as is safe and do not speed up until it has passed
+- Speed up so that it can get past you more quickly
+- Move towards the centre line so it cannot cut in too early
+E When someone wishes to pass you, drive as near to the left edge of the roadway as is safe and do not accelerate until the other vehicle has passed.
+R Rules of the Road 6.45
+
+@ Accidents
+F
+Q You are involved in an accident. You must …
+(i) stop immediately
+(ii) find out whether anyone is injured and help as far as you are able
+(iii) leave the scene if the damage looks minor
+-* (i) and (ii) only
+- (ii) and (iii) only
+- (i), (ii) and (iii)
+E A driver involved in an accident must stop immediately, establish the injuries and help the injured as far as possible, establish the damage, and give their details to anyone with reasonable grounds to ask. Leaving the scene is not allowed.
+R Rules of the Road 6.62
+
+@ Accidents
+Q After an accident, if you did not give your details to a traffic officer at the scene, you must report the accident at a police station within …
+- 12 hours
+-* 24 hours
+- 7 days
+E If you did not give your and the owner's names and addresses and the vehicle registration number to a traffic officer at the scene, report the accident at a police station within 24 hours.
+R Rules of the Road 6.62
+
+@ Licences
+F
+Q You are disqualified from obtaining a learner's licence if you …
+(i) suffer from uncontrolled epilepsy
+(ii) are addicted to a drug with a narcotic effect
+(iii) are deaf
+-* (i) and (ii) only
+- (iii) only
+- (i), (ii) and (iii)
+E Uncontrolled epilepsy and drug or alcohol addiction disqualify you. The Act states that deafness is not, of itself, a disqualifying defect.
+R Rules of the Road 4.1
+
+@ Licences
+Q Which of the following does NOT disqualify you from holding a learner's licence?
+- Uncontrolled diabetes
+- A licence that has been suspended by a court, while the suspension is in force
+-* Wearing glasses or contact lenses that correct your vision to the required standard
+E Defective vision (measured against the prescribed standard) disqualifies you, but vision corrected to the standard with glasses or lenses meets it. Uncontrolled diabetes and a suspended licence both disqualify you.
+R Rules of the Road 4.1
+
+@ Lights
+F
+Q Your headlamps, rear lamps and number-plate lamp must be switched on …
+(i) between sunset and sunrise
+(ii) during the day when rain makes it hard to see vehicles 150 m away
+(iii) whenever you drive faster than 100 km/h
+-* (i) and (ii) only
+- (i) only
+- (i), (ii) and (iii)
+E Lamps must be lit between sunset and sunrise, and at any other time when, because of poor light or bad weather, persons and vehicles are not clearly visible at 150 m. Speed has nothing to do with it.
+R Rules of the Road 6.1.2
+
+@ Lights
+F
+Q At night your parked car does NOT need its lamps switched on if it is parked …
+(i) off the roadway of the public road
+(ii) in a parking place demarcated by a road traffic sign
+(iii) within 12 m of a lighted street lamp that lights up the road
+- (i) only
+- (ii) and (iii) only
+-* (i), (ii) and (iii)
+E All three are exceptions to the rule that lamps must be lit between sunset and sunrise.
+R Rules of the Road 6.1.2
+
+@ Road position
+Q Before you change lanes, what must you be sure of?
+- That the vehicle behind you has flashed its lights at you
+-* That you can change lanes without obstructing or endangering other traffic
+- That you are driving faster than the traffic in the other lane
+E Signal in good time, check your mirrors and blind spot, and only move across when you can do so without obstructing or endangering other traffic.
+R Rules of the Road 6.40 & 6.41
+
+@ Road position
+F
+Q You are about to change lanes. Put these in the correct order:
+(i) check your mirrors and blind spot
+(ii) give the signal in good time
+(iii) move into the other lane when it is safe
+- (iii), (ii), (i)
+-* (i), (ii), (i) again, then (iii)
+- (ii), (iii), (i)
+E Observe first, signal in good time, check again (especially the blind spot), then change lanes only if it is safe. A signal alone never gives you the right to move over.
+R K53 observation routine; Rules of the Road 6.40 & 6.41
+
+@ Vehicle requirements
+Q What is the minimum tread depth of the tyres on a light motor vehicle?
+-* 1 mm, with the tread pattern clearly visible across the whole tyre
+- 0,5 mm on the front tyres only
+- 3 mm
+E Tyres must show a clearly visible tread pattern across their breadth and around the entire circumference, with a tread depth of at least 1 mm.
+R Rules of the Road 6.61.1
+
+@ Vehicle requirements
+Q When may you use the hooter of your vehicle?
+- To greet a friend
+- To tell the car in front that the traffic light has turned green
+-* Only when it is necessary for safety reasons
+E No person shall use a vehicle's hooter except when necessary on grounds of safety. It must be audible from 90 m, and hooters that play a tune may not be fitted to private vehicles.
+R Rules of the Road 6.15
+
+@ Towing
+Q The brakes of a vehicle no longer work. If it has to be towed, it should be towed …
+- with a rope, at walking pace
+-* with a tow-bar (rigid connection)
+- by pushing it with another vehicle
+E If the towed vehicle's brakes do not comply with the law, it may only be towed if it is connected to the towing vehicle by a draw bar or tow-bar. A rope or chain would let it run into the towing vehicle.
+R Rules of the Road 6.57
+
+@ General duties
+Q May you leave your car on a public road with the engine running while you go into a shop?
+- Yes, if you lock the doors
+- Yes, for not more than 5 minutes
+-* No, the engine may not run while the vehicle is unattended
+E A driver may not leave a vehicle unattended with the engine running, and must make sure it cannot move (parking brake or gear).
+R Rules of the Road 6.49
+
+@ Parking
+F
+Q A vehicle left in the same place on a public road is regarded as abandoned after …
+(i) 24 hours, outside an urban area
+(ii) 7 days, inside an urban area
+(iii) 30 days, anywhere
+-* (i) and (ii) only
+- (iii) only
+- (ii) and (iii) only
+E A vehicle may be deemed abandoned if left in the same place for more than 24 hours on a public road outside an urban area, or more than 7 days inside an urban area.
+R Rules of the Road 6.54

@@ -1,0 +1,550 @@
+# Vehicle controls (light motor vehicle). Diagram numbering per DoT Vehicle Controls Manual s2.1/2.2:
+# 1 centre rear-view mirror, 2 window wiper, 3 left/right rear-view mirrors, 4 steering wheel,
+# 5 indicator switch, 6 gear lever, 7 hand (parking) brake, 8 clutch, 9 brake, 10 accelerator, 11 horn
+# Format: "@ topic" header, Q question, options "- " (wrong) / "-* " (correct), F = keep option order,
+# D = show controls diagram, I = sign image key, E = explanation, R = source reference. Blank line ends a question.
+
+@ Controls diagram
+D
+Q Which control do you use to accelerate (increase the speed of) the vehicle?
+- 9
+-* 10
+- 8
+E Number 10 is the accelerator. Pressing it increases engine speed and therefore road speed.
+R Vehicle Controls Manual 2.2 & 2.6
+
+@ Controls diagram
+D
+Q Which control is used to stop the vehicle?
+-* 9
+- 7
+- 8
+E Number 9 is the (foot) brake – the service brake used to slow down and stop.
+R Vehicle Controls Manual 2.2 & 2.6
+
+@ Controls diagram
+D
+Q Which control is used to keep a parked vehicle stationary?
+- 9
+- 6
+-* 7
+E Number 7 is the hand (parking) brake, used to keep the vehicle stationary after parking.
+R Vehicle Controls Manual 2.2 & 2.6
+
+@ Controls diagram
+D
+Q Which control is NOT found in a vehicle with an automatic gearbox?
+-* 8
+- 6
+- 10
+E Automatic vehicles do not have a clutch (number 8). They still have a gear selector (6) and an accelerator (10).
+R Vehicle Controls Manual 2.5 & 2.6
+
+@ Controls diagram
+D
+Q In a vehicle with a manual gearbox, which controls do you use to change gears?
+- 6 and 7
+-* 6 and 8
+- 8 and 9
+E To change gear you depress the clutch (8) and move the gear lever (6).
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control assists the driver when engaging or disengaging a gear?
+- 6
+- 10
+-* 8
+E The clutch (8) disconnects the engine from the gearbox so that a gear can be engaged or disengaged.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control is used to change the direction of the vehicle?
+-* 4
+- 5
+- 3
+E The steering wheel (4) changes the direction of the vehicle. The indicator (5) only signals your intention.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control do you use to tell other road users that you intend to turn left or right?
+- 4
+-* 5
+- 11
+E Number 5 is the indicator switch. It signals your intention to turn or change direction.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control is used to clean the front windscreen, for example when driving in the rain?
+- 1
+- 11
+-* 2
+E Number 2 is the windscreen wiper.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control would you use to see what is on the right-hand rear side of your vehicle?
+-* 3
+- 1
+- 5
+E Number 3 is the left and right (side) rear-view mirrors. The right-hand mirror shows the right-rear side.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control is used to alert other road users in order to avoid a collision?
+- 5
+-* 11
+- 2
+E Number 11 is the horn (hooter). It may only be used when necessary for safety.
+R Vehicle Controls Manual 2.6; Rules of the Road 6.15
+
+@ Controls diagram
+D
+Q Which control should you use (check) before applying the brake to slow down or stop?
+-* 1
+- 7
+- 11
+E Check the centre rear-view mirror (1) before braking so that you know what traffic is behind you.
+R Vehicle Controls Manual 2.5 & 2.6
+
+@ Controls diagram
+D
+Q Which control should you use (check) before changing the speed of the vehicle?
+- 10
+- 6
+-* 1
+E Before changing speed, first check the rear-view mirror (1) to be aware of the traffic behind you.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control is used to prevent the engine from stalling just before the vehicle comes to a complete standstill?
+- 9
+-* 8
+- 7
+E Depress the clutch (8) just before you stop so that the engine does not stall.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control(s) are used to see what is to the rear and sides of the vehicle?
+- 1 only
+- 3 and 5
+-* 1 and 3
+E The centre mirror (1) shows traffic directly behind; the side mirrors (3) show the rear and sides.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control do you use to select a gear?
+-* 6
+- 7
+- 5
+E Number 6 is the gear lever.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Which control must be used to keep the vehicle stationary when parking and leaving it unattended?
+- 8
+- 9
+-* 7
+E The hand (parking) brake (7) must be set before leaving a vehicle unattended.
+R Vehicle Controls Manual 2.6; Rules of the Road 6.49
+
+@ Controls diagram
+D
+Q Which control is used to stop the vehicle in an emergency?
+-* 9
+- 7
+- 11
+E The foot brake (9) is used to stop in an emergency.
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q When you stop on a steep incline and want to prevent the vehicle from rolling backwards, which control do you use?
+- 8
+-* 7
+- 6
+E The hand brake (7) holds the vehicle on an incline.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+F
+Q When you intend to change direction, which controls are used?
+-* 1, 3 and 5
+- 2, 7 and 11
+- 8, 9 and 10
+E Check the mirrors (1 and 3) and signal with the indicator (5) before changing direction.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+F
+Q Which controls must you use when there is a sharp turn in the road?
+-* 1, 3, 4, 6, 8, 9 and 10
+- 2, 5, 7 and 11 only
+- 3, 7 and 11 only
+E For a sharp turn you check your mirrors (1 and 3), brake to slow down (9), change down a gear (clutch 8 and gear lever 6), steer (4) and use the accelerator (10). The manual gives 1, 3, 4, 6, 8, 9 and 10 in section 2.11 (section 2.6 leaves out 3). Either way, the other two options are clearly wrong.
+R Vehicle Controls Manual 2.6 & 2.11
+
+@ Controls diagram
+D
+Q Which of the following is a foot control?
+- 7
+-* 9
+- 5
+E The brake (9) is a foot pedal. The hand brake (7) and indicator (5) are operated by hand.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+Q Which of the following is NOT a hand control?
+- 6
+- 5
+-* 10
+E The accelerator (10) is operated with your foot.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+Q Control number 4 is the …
+- indicator switch
+-* steering wheel
+- horn
+E Number 4 is the steering wheel.
+R Vehicle Controls Manual 2.2
+
+@ Controls diagram
+D
+Q Control number 1 is the …
+-* interior (centre) rear-view mirror
+- windscreen wiper
+- side rear-view mirror
+E Number 1 is the centre (interior) rear-view mirror.
+R Vehicle Controls Manual 2.2
+
+@ Controls diagram
+D
+Q Control number 8 is used to …
+- accelerate
+- indicate a turn
+-* change gears
+E Number 8 is the clutch, used together with the gear lever to change gears.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+Q Control number 6 is the …
+- hand brake
+-* gear lever
+- clutch
+E Number 6 is the gear lever.
+R Vehicle Controls Manual 2.2
+
+@ Controls diagram
+D
+Q Control number 11 is the …
+-* horn (hooter)
+- indicator switch
+- light switch
+E Number 11, in the middle of the steering wheel, is the horn.
+R Vehicle Controls Manual 2.2
+
+@ Controls diagram
+D
+Q Which control is used to increase and decrease the speed of the vehicle?
+- 9
+-* 10
+- 6
+E The accelerator (10) controls engine speed: press to go faster, ease off to slow down.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+Q Which control is used to monitor traffic to the rear?
+- 5
+- 2
+-* 3
+E The side rear-view mirrors (3) (together with the centre mirror, 1) are used to monitor traffic behind you.
+R Vehicle Controls Manual 2.11
+
+@ Controls diagram
+D
+F
+Q When control number 9 is used, the distance it takes to stop the vehicle is …
+(i) longer on a wet road than on a dry road
+(ii) longer if the vehicle is travelling at a higher speed
+(iii) longer if the vehicle is loaded
+Select the correct combination.
+- (i) and (ii) only
+- (ii) and (iii) only
+-* (i), (ii) and (iii)
+E All three are correct: wet roads, higher speeds and heavier loads all increase stopping distance.
+R Vehicle Controls Manual 2.6 & 2.11
+
+@ Controls diagram
+D auto
+Q You are driving a vehicle with an automatic gearbox. Which control is used to select Drive, Neutral, Reverse or Park?
+-* 6
+- 5
+- 7
+E In an automatic vehicle number 6 is the gear selector. It works differently from a manual gear lever, and there is no clutch.
+R Vehicle Controls Manual 2.5
+
+@ Controls diagram
+D
+Q Which control should you check before moving off from the side of the road?
+- 2
+- 11
+-* 3
+E Before moving off you must be able to do so safely without interfering with moving traffic, so check your mirrors (3 and 1) and blind spot.
+R Vehicle Controls Manual 2.5; Rules of the Road 6.49
+
+@ Controls diagram
+D
+Q Which control must be in good working order and audible from 90 m?
+- 5
+-* 11
+- 2
+E A light motor vehicle must have a hooter (11) in good working order that is clearly audible from 90 metres.
+R Rules of the Road 6.15
+
+@ Controls diagram
+D
+F
+Q Which controls are used in combination to change from 3rd gear to 2nd gear?
+- 6 and 7
+-* 6 and 8
+- 5 and 9
+E To change from one gear to another (for example from 3rd to 2nd) you depress the clutch (8) and move the gear lever (6).
+R Vehicle Controls Manual 2.6
+
+@ Controls diagram
+D
+Q Where a vehicle has a foot-operated parking brake (e.g. some Mercedes-Benz models), which control does it replace?
+- 9
+-* 7
+- 8
+E The manual notes that some vehicles have the parking (hand) brake, number 7, as a foot-operated control.
+R Vehicle Controls Manual 2.2 & 2.5
+
+@ General controls
+Q A light motor vehicle must have which three brakes (two may be the same brake)?
+- Front brake, rear brake and engine brake
+-* Service brake, parking brake and emergency brake
+- Foot brake, clutch and gearbox brake
+E Every light and heavy motor vehicle must have a service brake, a parking brake and an emergency brake. The parking and emergency brake may be one and the same.
+R Rules of the Road 6.14.2
+
+@ General controls
+Q The "service brake" is …
+-* the brake, normally a footbrake, used in the ordinary course of events to slow down or stop
+- the hand brake used to keep a vehicle stationary
+- any brake other than the footbrake that can stop the vehicle
+E The service brake is normally the footbrake. The parking brake is normally the hand brake. An emergency brake is a brake other than the service brake that can stop the vehicle.
+R Rules of the Road – definitions
+
+@ General controls
+Q The parking brake of a vehicle is …
+- the brake used to slow down in normal traffic
+-* a brake, normally a hand brake, used to keep the vehicle stationary
+- only used in emergencies
+E The parking brake is normally the hand brake and is used to keep a vehicle stationary.
+R Rules of the Road – definitions
+
+@ General controls
+Q A vehicle designed for or capable of reaching what speed must be fitted with a working speedometer?
+- 40 km/h
+-* 60 km/h
+- 80 km/h
+E A motor vehicle that can reach 60 km/h or more must have a speedometer in good working order.
+R Rules of the Road 6.26
+
+@ General controls
+Q How many windscreen wipers must at least be fitted to a light motor vehicle with a windscreen?
+-* One, which wipes the windscreen directly in front of the driver
+- Two, one on each side
+- None are required by law
+E At least one windscreen wiper must be fitted that wipes the outside of the windscreen directly in front of the driver continuously, evenly and adequately.
+R Rules of the Road 6.20
+
+@ General controls
+Q A motor car must be fitted with …
+- only an interior rear-view mirror
+-* an exterior rear-view mirror on the driver's side and an interior rear-view mirror
+- an exterior rear-view mirror on the passenger side only
+E A motor car, minibus, bus or goods vehicle must have an exterior mirror on the driving side and an interior mirror. If the interior mirror does not give a clear view to the rear, an extra exterior mirror on the other side must be fitted instead.
+R Rules of the Road 6.11
+
+@ General controls
+Q The visible light transmittance through the windscreen of a light motor vehicle must be at least …
+- 50%
+-* 70%
+- 90%
+E The windscreen must be of safety glass, give sufficient visibility, and have a visible light transmittance of at least 70%.
+R Rules of the Road 6.19
+
+@ General controls
+Q A direction indicator on a light motor vehicle, when in use, must be clearly visible in normal daylight at a distance of …
+- 15 metres
+-* 30 metres
+- 100 metres
+E Indicators must show an intermittently flashing light clearly visible in normal daylight at 30 metres.
+R Rules of the Road 6.42
+
+@ General controls
+Q The light from a stop lamp must be visible in normal sunlight at a distance of at least …
+- 10 metres
+- 20 metres
+-* 30 metres
+E Stop lamps must emit red light brighter than the rear lamps and be visible in normal sunlight at 30 metres.
+R Rules of the Road 6.6
+
+@ General controls
+Q What colour light may a direction indicator show to the rear?
+- White only
+-* Yellow, amber or red
+- Green or blue
+E Indicators must show white, yellow or amber to the front, and yellow, amber or red to the rear.
+R Rules of the Road 6.42
+
+@ General controls
+Q The number-plate lamp must make every letter and figure on the plate visible from a distance of …
+-* 20 metres
+- 45 metres
+- 100 metres
+E At least one number-plate lamp must illuminate the rear plate so that it is legible from 20 metres.
+R Rules of the Road 6.7
+
+@ General controls
+Q When must the main (bright) beam of your headlamps be dipped?
+- Only in urban areas
+-* When there is oncoming traffic and when following another vehicle
+- Only when an oncoming driver flashes their lights
+E Dip your main beam for oncoming traffic as well as when following another vehicle so that you do not dazzle other drivers.
+R Rules of the Road 6.2
+
+@ General controls
+Q A properly adjusted main (bright) beam must let you see a person, vehicle or substantial object at a distance of at least …
+- 45 metres
+-* 100 metres
+- 150 metres
+E Main beam: at least 100 m. Dipped beam: at least 45 m.
+R Rules of the Road 6.2 & 6.3
+
+@ General controls
+Q A properly adjusted dipped beam must let you see a person, vehicle or substantial object at a distance of at least …
+-* 45 metres
+- 100 metres
+- 150 metres
+E Dipped beam: at least 45 m. Main beam: at least 100 m.
+R Rules of the Road 6.3
+
+@ General controls
+Q You may use your fog lamps only when visibility is poor because of …
+- heavy traffic or darkness
+-* fog, mist, snow, dust or smoke
+- rain at night only
+E No vehicle may be driven with fog lamps lit except in poor visibility caused by snow, fog, mist, dust or smoke.
+R Rules of the Road 6.9
+
+@ General controls
+Q May you drive with only your parking lamps switched on?
+- Yes, in urban areas at night
+- Yes, if the street lights are on
+-* No, a moving vehicle may not be driven with only its parking lamps lit
+E A vehicle may not be driven on a public road with only the parking lamps lighted while it is in motion.
+R Rules of the Road 6.4
+
+@ General controls
+Q What is the minimum tread depth of the tyres of a light motor vehicle?
+- 0,5 mm
+-* 1 mm
+- 1,6 mm
+E Tyres must have a clearly visible tread pattern across the breadth and around the whole circumference, at least 1 mm deep.
+R Rules of the Road 6.61.1
+
+@ General controls
+Q Which statement about the hooter (horn) is correct?
+- It may be used to greet friends
+-* It may only be used when necessary on the grounds of safety
+- It may be fitted with a musical tune in a private vehicle
+E The hooter may only be used when necessary for safety. Sirens or tune-playing warning devices may not be used in private vehicles.
+R Rules of the Road 6.15
+
+@ General controls
+Q The light emitted by a vehicle's rear lamps must be …
+-* red
+- white
+- amber
+E Rear lamps must emit a red light to the rear.
+R Rules of the Road 6.5
+
+@ General controls
+Q How many red retro-reflectors must be fitted to the rear of a light motor vehicle?
+- One in the centre
+-* Two, one on each side
+- None if it has rear lamps
+E A light motor vehicle must have two red retro-reflectors on the rear, one on each side.
+R Rules of the Road 6.43.2
+
+@ General controls
+Q The maximum turning radius allowed for a motor vehicle used on a public road is …
+- 10,5 metres
+-* 13,1 metres
+- 15 metres
+E A motor vehicle may not be used on a public road if its turning radius exceeds 13,1 metres.
+R Rules of the Road 6.13
+
+@ General controls
+Q Which statement about the exhaust system is correct?
+- It is legal to remove the silencer if the vehicle is roadworthy
+-* The vehicle must have an efficient silencer, and exhaust gas must not leak into the passenger compartment
+- Dense smoke is acceptable if the engine is new
+E A vehicle must have an efficient exhaust silencer, may not emit smoke so dense that it is a nuisance or obscures vision, and exhaust gas may not leak into the cab or passenger compartment.
+R Rules of the Road 6.21
+
+@ General controls
+Q When should a vehicle's headlamps, rear lamps and number-plate lamp be switched on?
+- Only between 22:00 and 05:00
+-* Between sunset and sunrise, and whenever people and vehicles are not clearly visible at 150 metres
+- Only when it rains
+E These lamps must be lit between sunset and sunrise and at any other time when, because of insufficient light or bad weather, persons and vehicles are not clearly discernible at 150 metres.
+R Rules of the Road 6.1.2
+
+# ---- Added after gap check (original wording)
+@ Controls diagram
+D
+Q Which number on the diagram is NOT found in a vehicle with an automatic gearbox?
+- 6
+-* 8
+- 9
+E Number 8 is the clutch. An automatic gearbox has no clutch pedal; it still has a gear selector (6) and a brake (9).
+R Vehicle Controls Manual 2.5
+
+@ Controls diagram
+D
+F
+Q Which controls do you use to select a gear in a vehicle with a manual gearbox?
+- 7 and 9
+-* 6 and 8
+- 5 and 10
+E Depress the clutch (8) and move the gear lever (6).
+R Vehicle Controls Manual 2.6 & 2.11
+
+@ Controls diagram
+D auto
+Q In a vehicle with an automatic gearbox, which control do you use to stop the vehicle?
+- 10
+-* 9
+- 7
+E Number 9 is the brake (service brake). In an automatic there are only two pedals: brake (9) and accelerator (10).
+R Vehicle Controls Manual 2.5

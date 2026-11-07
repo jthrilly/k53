@@ -1,0 +1,988 @@
+# Signs, signals and markings – hand-written questions. Same format. I = image key (sign key, or m-*/t-* SVG).
+
+@ Sign groups
+Q What is the ordinary shape of a regulatory sign?
+-* Round
+- Triangular
+- Rectangular
+E Regulatory signs are usually round; warning signs triangular; guidance signs rectangular.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q What is the ordinary shape of a warning sign?
+- Round
+-* Triangular
+- Octagonal
+E Warning signs are triangular and alert you in time to dangerous conditions on or next to the road.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q Which regulatory signs are exceptions to the usual round shape?
+- Speed limit and no-parking signs
+-* The octagonal stop sign, the triangular yield sign and the diamond-shaped pedestrian priority sign
+- Keep left and keep right signs
+E Regulatory signs are usually round. Exceptions: stop (octagon), yield (triangle) and pedestrian priority (diamond).
+R Road Traffic Signs s1
+
+@ Sign groups
+Q A road sign with a yellow background is …
+- a guidance sign for tourists
+-* a temporary sign, indicating a change in normal circumstances (e.g. road works)
+- only advisory and need not be obeyed
+E Yellow-background signs are temporary signs, used at road works, collision scenes and temporary traffic control. They must still be obeyed.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q A road traffic sign number that begins with the letter "T" (e.g. TR201) indicates …
+- a tourism sign
+-* a temporary sign
+- a toll road sign
+E A number beginning with T indicates a temporary sign.
+R Road Traffic Signs s2
+
+@ Sign groups
+Q What is the purpose of regulatory signs?
+- To give general information
+-* To regulate and control road users' actions by prohibiting or commanding certain actions
+- To warn of dangers ahead
+E Regulatory signs prohibit or command; disobeying them is an offence punishable by a fine, imprisonment or both.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q Failure to obey a regulatory road marking is …
+- allowed if no sign is present
+-* an offence, just like disobeying a regulatory sign
+- only an offence at night
+E As with regulatory signs, it is an offence to disregard regulatory markings.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q What is the purpose of warning signs?
+- To command you to do something
+-* To alert you in time to dangerous conditions on or next to the road
+- To show you the route to a town
+E Warning signs alert road users in time to dangerous conditions.
+R Road Traffic Signs s1
+
+@ Sign groups
+Q What is the purpose of guidance signs?
+-* To help you navigate, e.g. by giving early indication of routes and destinations
+- To regulate traffic
+- To warn of hazards
+E Guidance signs help you navigate by giving early indications that you will soon reach a particular place.
+R Road Traffic Signs s5
+
+@ Sign groups
+Q What does a red cross (diagonal bars) over a regulatory sign symbol mean, as in the de-restriction signs (R600)?
+- The restriction is doubled
+-* The restriction shown by the symbol ends from here
+- The sign is out of order
+E De-restriction signs cancel a restriction: from there you no longer need to comply with the sign shown without the cross.
+R Road Traffic Signs 3.8
+
+@ Control signs
+I stop
+Q You approach this sign and there is no stop line. Where must you stop?
+- Anywhere you can see cross traffic
+-* With the front of your vehicle in line with the sign
+- 9 m before the sign
+E Stop behind the stop line; where there is none, the front of the vehicle must stop in line with the stop sign.
+R Road Traffic Signs 3.1 (R1.1)
+
+@ Control signs
+I stop-4way
+Q You and three other vehicles arrive at this intersection. Which vehicle may proceed first?
+- The vehicle approaching from the right
+-* The vehicle that stopped first
+- The vehicle travelling straight
+E At a 4-way stop, the vehicle that stopped first moves off first, when it is safe.
+R Road Traffic Signs 3.1 (R1.4)
+
+@ Control signs
+I stop-yield
+Q You want to turn left at this sign. What must you do?
+- Stop, then turn
+-* You may turn left without stopping, but must yield to all traffic close enough to be a hazard
+- Hoot and turn
+E The stop/yield sign lets traffic turning left proceed without stopping if it can be done without interfering with cross traffic. Straight-through traffic must stop.
+R Road Traffic Signs 3.1 (R1.2)
+
+@ Control signs
+I stop-yield
+Q You want to go straight on at this sign. What must you do?
+-* Stop behind the stop line
+- Yield and proceed without stopping
+- Proceed; the sign applies only to left-turning traffic
+E If you intend to carry straight on, bring your vehicle to a standstill behind the stop line.
+R Road Traffic Signs 3.1 (R1.2)
+
+@ Control signs
+I yield-circle
+Q At a mini-circle with this sign, who may proceed first?
+- The vehicle on the left
+-* The driver who reaches their yield line first
+- The larger vehicle
+E Yield to vehicles already in the circle or that will cross their yield line before you cross yours; the driver who reaches the yield line first proceeds first.
+R Road Traffic Signs 3.1 (R2.2)
+
+@ Control signs
+I yield-circle
+Q At a mini-circle controlled by this sign, must you signal your intended direction?
+-* Yes, as at a normal intersection, signal in time
+- No, signalling is not used at circles
+- Only when turning right
+E At a mini circle you must, as at a normal intersection, signal in time in which direction you want to turn.
+R Road Traffic Signs 3.1 (R2.2)
+
+@ Control signs
+I ped-priority
+Q Which vehicles may enter an area marked with this sign, and at what maximum speed?
+- Any vehicle at 30 km/h
+-* Only emergency, loading/off-loading and maintenance vehicles, at max 15 km/h
+- Only buses at 40 km/h
+E Pedestrian priority areas limit other traffic to emergency vehicles, delivery (loading/off-loading) and maintenance vehicles, driving at a maximum of 15 km/h and giving way to pedestrians.
+R Road Traffic Signs 3.1 (R5)
+
+@ Control signs
+I no-entry
+Q Where would you usually find this sign?
+-* At the end of a one-way street or off-ramp
+- At the beginning of a freeway
+- Near schools
+E No entry signs are usually found at the end of a one-way street, at the end of an off-ramp or where a two-way road changes to one-way.
+R Road Traffic Signs 3.1 (R3)
+
+@ Control signs
+I stop-go
+Q At road works, a worker turns this STOP/GO sign so that the GO side faces you. What must you do?
+- Stop and wait for a traffic officer
+-* Proceed with caution if it is safe
+- Hoot and drive through quickly
+E STOP/GO signs are two signs mounted back to back: stop if STOP faces you; proceed with caution when GO is shown.
+R Road Traffic Signs 3.1 (R1.5)
+
+@ Command signs
+I min-speed
+Q What does this sign require of you?
+- Do not exceed 50 km/h
+-* Do not drive slower than 50 km/h
+- Recommended speed 50 km/h
+E A blue round sign with a number is a minimum speed sign: do not drive slower than the speed shown.
+R Road Traffic Signs 3.2 (R101)
+
+@ Command signs
+I speed-60
+Q What does this sign require of you?
+-* Do not exceed 60 km/h
+- Do not drive slower than 60 km/h
+- Recommended speed 60 km/h on curves
+E A red-bordered round sign with a number is a speed limit: do not exceed it. The limit applies from the sign.
+R Road Traffic Signs 3.3 (R201)
+
+@ Command signs
+I keep-left
+Q What must you do at this sign?
+- Turn left at the next intersection
+-* Pass to the left of the obstruction (e.g. traffic island)
+- Keep to the left lane on a freeway
+E Keep left signs are found at obstructions such as traffic islands: pass on the side indicated.
+R Road Traffic Signs 3.2 (R103)
+
+@ Command signs
+I roundabout
+Q At a roundabout with this sign, in which direction must you travel?
+- Anti-clockwise
+-* Clockwise
+- Either direction
+E Proceed clockwise, yielding to vehicles approaching from the right within the roundabout.
+R Road Traffic Signs 3.2 (R137)
+
+@ Command signs
+I pay-toll
+Q What is the purpose of this sign?
+- To show a toll plaza 1 km ahead
+-* To give you a last opportunity to take an alternative route, or proceed and pay toll
+- To indicate a toll-free road
+E The pay toll sign gives you a last chance to take an alternative route or proceed and pay.
+R Road Traffic Signs 3.2 (R132)
+
+@ Command signs
+I headlamps-on
+Q What must you do at this sign?
+- Switch on your fog lamps
+-* Switch on your headlights in the dipped position
+- Switch on your main (bright) beam
+E Switch your lights on in the dip position so you can see and be seen (often before tunnels).
+R Road Traffic Signs 3.2 (R133)
+
+@ Command signs
+I mass-only
+Q You are driving a light motor vehicle with a GVM of 1 500 kg. This sign applies to the left lane. What must you do?
+- Use the left lane
+-* Use a part of the road not indicated by this sign
+- Use the shoulder
+E Vehicles exceeding the indicated mass must use the part of the road indicated; lighter vehicles must use another part of the road.
+R Road Traffic Signs 3.2 (R102)
+
+@ Command signs
+I car-only
+Q You are driving a minibus. May you use a lane marked with this sign?
+- Yes, any light vehicle may use it
+-* No, only motor cars may use it
+- Only during peak hours
+E Motor cars only: you may use such a road only when the sign depicting your type of vehicle is displayed.
+R Road Traffic Signs 3.2 (R117)
+
+@ Prohibition signs
+I no-parking
+Q At this sign, may you stop briefly to drop off a passenger?
+-* Yes – parking is prohibited, but a brief stop to load or off-load is not parking
+- No, stopping is also prohibited
+- Only if you switch on your hazard lights for 5 minutes
+E This is the parking prohibited sign. "Park" means stationary for longer than needed to load or off-load persons or goods, so a brief stop is allowed. The "S" sign prohibits stopping.
+R Road Traffic Signs 3.3 (R216); Rules of the Road definitions
+
+@ Prohibition signs
+I no-stopping
+Q When may you stop where this sign is displayed?
+- To drop off a passenger quickly
+-* Only to obey a traffic light or officer, or to avoid a collision
+- For up to 2 minutes
+E Stopping prohibited: do not stop unless to obey a traffic light or traffic officer, or to avoid a collision.
+R Road Traffic Signs 3.3 (R217)
+
+@ Prohibition signs
+I no-overtaking
+Q For how far does this sign normally apply?
+- 100 m
+-* 500 m
+- 2 km
+E Do not overtake any vehicle for the next 500 m.
+R Road Traffic Signs 3.3 (R214)
+
+@ Prohibition signs
+I no-overtaking-goods
+Q Who is affected by this sign?
+-* Drivers of heavy (goods) vehicles, who may not overtake other heavy vehicles
+- All drivers, who may not overtake trucks
+- Truck drivers, who may not overtake light vehicles
+E R215: if you drive a heavy motor vehicle, do not overtake another heavy vehicle for the next 500 m.
+R Road Traffic Signs 3.3 (R215)
+
+@ Prohibition signs
+I no-hitchhike
+Q For what distance after this sign may a driver not pick up passengers?
+- 100 m
+-* 500 m
+- 1 km
+E Hitch-hiking prohibited: pedestrians may not try to be picked up, and drivers may not pick up passengers for the next 500 m.
+R Road Traffic Signs 3.3 (R207)
+
+@ Prohibition signs
+I no-noise
+Q For how far after this sign may you not use your hooter?
+-* 100 m
+- 500 m
+- 2 km
+E Excessive noise prohibited (often near hospitals): do not use your hooter for 100 m after the sign.
+R Road Traffic Signs 3.3 (R206)
+
+@ Prohibition signs
+I no-left
+Q At this sign, which movements are allowed?
+- Turn left only
+-* Proceed straight or turn right
+- Turn right only
+E Where a left-turn prohibition is displayed, you may proceed straight or turn right.
+R Road Traffic Signs 3.3 (R211)
+
+@ Prohibition signs
+I no-right
+Q At this sign, which movements are allowed?
+-* Proceed straight or turn left
+- Proceed straight only
+- Turn right only after stopping
+E Where a right-turn prohibition is displayed, you may proceed straight or turn left.
+R Road Traffic Signs 3.3 (R212)
+
+@ Prohibition signs
+I height-limit
+Q What does this sign mean?
+- The road ahead is 4,42 m wide
+-* Vehicles (including their load) higher than 4,42 m may not proceed
+- Minimum height 4,42 m
+E Height limit: if your vehicle or load is higher than the height in metres, use another road.
+R Road Traffic Signs 3.3 (R204)
+
+@ Prohibition signs
+I mass-limit
+Q What does this sign mean?
+- Minimum mass 12 t
+-* Vehicles with a GVM or GCM exceeding 12 t may not use the road
+- Vehicles exceeding 12 t only
+E Mass limit: if your vehicle's GVM or GCM exceeds the mass shown, use another road.
+R Road Traffic Signs 3.3 (R202)
+
+@ Prohibition signs
+I no-peds
+Q Where pedestrians are prohibited by this sign, a driver should …
+- assume there will be no pedestrians
+-* still look out for pedestrians
+- hoot at any pedestrian seen
+E Despite the prohibition you must still look out for pedestrians.
+R Road Traffic Signs 3.3 (R218)
+
+@ Prohibition signs
+I no-mc
+Q You are riding a motorcycle on a freeway and see this sign. What must you do?
+- Continue in the left lane
+-* Leave the freeway at the first exit
+- Stop immediately on the shoulder
+E Motorcycles prohibited: on a freeway, motorcyclists must leave at the first exit.
+R Road Traffic Signs 3.3 (R222)
+
+@ Prohibition signs
+I speed-100-t
+Q What does the yellow background of this sign tell you?
+- It is only a recommended speed
+-* It is a temporary speed limit, e.g. at road works, which you must obey
+- It applies only to heavy vehicles
+E A yellow background means a temporary sign. It must still be obeyed.
+R Road Traffic Signs s1
+
+@ Reservation signs
+I bus-stop
+Q You are driving a car. May you stop here to drop off a passenger?
+- Yes, for less than 2 minutes
+-* No, the stop is reserved for buses of the indicated operator
+- Yes, if no bus is in sight
+E Do not stop to pick up or drop off passengers if you are not driving the vehicle the stop is reserved for.
+R Road Traffic Signs 3.4 (R325)
+
+@ Comprehensive signs
+I freeway
+Q What does this sign indicate?
+-* A freeway begins and the freeway rules apply from here
+- An airport is nearby
+- A dual carriageway ends
+E Dual-carriageway freeway begins: all freeway rules apply from the sign.
+R Road Traffic Signs 3.5 (R401)
+
+@ Comprehensive signs
+I woonerf
+Q What is the speed limit in an area marked with this sign?
+- 15 km/h
+-* 30 km/h
+- 40 km/h
+E A woonerf limits speed to 30 km/h, gives pedestrians right of way and prohibits through traffic.
+R Road Traffic Signs 3.5 (R403)
+
+@ Comprehensive signs
+I woonerf
+Q In the area marked with this sign, who has right of way?
+- Vehicles
+-* Pedestrians in the street
+- Cyclists only
+E In a woonerf you must yield to pedestrians and look out for children playing in the street.
+R Road Traffic Signs 3.5 (R403)
+
+@ Selective restriction
+I nighttime
+Q This plate is displayed below a no-U-turn sign. What does it mean?
+- U-turns are prohibited during the day only
+-* U-turns are prohibited at night only
+- U-turns are prohibited at all times
+E The night-time plate (R512) means the regulatory sign above it applies only during night time.
+R Road Traffic Signs 3.6 & 3.7 (R213-512)
+
+@ Selective restriction
+I pay-display
+Q What must you do where this plate is displayed below a parking sign?
+- Pay at the exit gate
+-* Pay the parking fee and display the receipt in or on your vehicle
+- Park for free for 1 hour
+E Pay and display: pay the parking fee and display the receipt.
+R Road Traffic Signs 3.6 (R523)
+
+@ Warning signs
+I priority-crossroad
+Q What does this sign tell you?
+-* You are approaching a crossroad where you have right of way (the thicker line)
+- You must yield to cross traffic
+- There is a hospital ahead
+E The thicker leg of the cross indicates the road with priority. Here your road has priority, but be ready to stop if cross-traffic does not yield.
+R Road Traffic Signs 4.1 (W102)
+
+@ Warning signs
+I secondary-crossroad
+Q What does this sign tell you?
+- You have right of way at the crossroad ahead
+-* You are approaching a crossroad where you must yield to cross-traffic
+- The road ahead is closed
+E The thicker horizontal line indicates the crossing road has priority; you must yield to traffic from the left and right.
+R Road Traffic Signs 4.1 (W103)
+
+@ Warning signs
+I traffic-circle
+Q At a traffic circle with no other signs or markings telling you who has right of way, you must yield to traffic …
+- from the left
+-* from the right
+- behind you
+E If there is no indication, give way to traffic approaching from the right. Vehicles within a traffic circle have right of way.
+R Road Traffic Signs 4.2 (W201)
+
+@ Warning signs
+I winding-road
+Q What should you keep in mind after passing this sign?
+- There will be exactly two curves
+-* There could be any number of curves after the first one, without further warning
+- The road becomes straight after 100 m
+E A winding road sign warns of a series of curves; there could be any number after the first one without further warning.
+R Road Traffic Signs 4.2 (W208/W209)
+
+@ Warning signs
+I two-way
+Q What does this sign warn you of?
+- A one-way road ahead
+-* The one-way road you are on will soon carry two-way traffic
+- Overtaking is allowed ahead
+E Two-way traffic ahead: be careful when overtaking because of oncoming vehicles.
+R Road Traffic Signs 4.2 (W212)
+
+@ Warning signs
+I pedestrians
+Q For approximately what distance should you look out for pedestrians after this sign?
+- 500 m
+-* 2 km
+- 5 km
+E Pedestrians may be crossing the road for the next 2 km. The same applies to cyclists, domestic and wild animals and slippery road signs.
+R Road Traffic Signs 4.3 (W307)
+
+@ Warning signs
+I ped-crossing
+Q A vehicle has stopped at the pedestrian crossing ahead warned of by this sign. You may …
+- overtake it carefully
+-* not overtake it
+- overtake it on the left
+E Slow down and stop for pedestrians waiting; do not overtake vehicles that have stopped at the pedestrian crossing.
+R Road Traffic Signs 4.3 (W306)
+
+@ Warning signs
+I railway
+Q A train is approaching as you near this crossing. Where must you stop?
+- On the railway line, so the train driver can see you
+-* In time, but not within the railway crossing reserve
+- Right next to the tracks
+E Slow down and look left and right; if a train is approaching, stop in time but not within the railway reserve.
+R Road Traffic Signs 4.3 (W318)
+
+@ Warning signs
+I railway-crossbuck
+Q At this railway crossing there is no stop line or stop sign. A train is approaching. How close to the nearest rail may you stop?
+- 1 m
+-* No closer than 3 m
+- 6 m
+E If there is no stop line or sign, stop no closer than 3 m from the nearest track, and not on the track or in the railway reserve.
+R Road Traffic Signs 4.3 (W403/W404)
+
+@ Warning signs
+I tunnel
+Q What should you do when you see this sign?
+- Switch on your hazard lights
+-* Slow down and switch your headlights on (dipped)
+- Sound your hooter
+E Tunnel ahead: slow down and switch on your headlights in the dipped position.
+R Road Traffic Signs 4.3 (W319)
+
+@ Warning signs
+I one-vehicle-width
+Q There is oncoming traffic as you approach this sign. How far from the structure should you stop to yield?
+- 3 m
+-* At least 6 m
+- 15 m
+E Slow down, stop at least 6 m from the structure and yield to the other vehicle.
+R Road Traffic Signs 4.3 (W327)
+
+@ Warning signs
+I gravel-begins
+Q After this sign, how will your vehicle behave compared to a tarred road?
+- Steering will be heavier and stopping distances shorter
+-* Steering will be lighter, the vehicle will skid more easily and need a longer stopping distance
+- There will be no difference
+E On gravel, steering is lighter, vehicles skid more easily and need a longer stopping distance.
+R Road Traffic Signs 4.3 (W325)
+
+@ Warning signs
+I collision
+Q What should you do when passing a collision scene warned of by this sign?
+- Stop to look, in case you can help, even if help is there
+-* Slow down, be ready to stop, and do not stop out of curiosity if enough help is present
+- Speed up to clear the area quickly
+E Slow down, watch for someone directing traffic and be ready to stop. If enough professional help is present, do not stop out of curiosity.
+R Road Traffic Signs 4.3 (TW353)
+
+@ Warning signs
+I drift
+Q You arrive at the drift warned of by this sign and do not know how deep the water is. You should …
+- drive through quickly
+-* stop
+- follow the vehicle in front closely
+E If it is not known how deep the water is, stop. If passable, drive through slowly.
+R Road Traffic Signs 4.3 (W350)
+
+@ Warning signs
+I slippery
+Q What should you avoid after this sign?
+- Driving in a straight line
+-* Sudden braking or harsh steering
+- Using your headlights
+E Slow down, since sudden braking or harsh steering could cause skidding sooner than usual.
+R Road Traffic Signs 4.3 (W333)
+
+@ Warning signs
+I aircraft
+Q What should you do when you see this sign?
+-* Do not get a fright and do not brake suddenly if an aircraft passes low
+- Stop and wait for the aircraft to land
+- Switch on your hazard lights
+E Low-flying aircraft: expect sudden aircraft noise near the road; do not get frightened or brake suddenly.
+R Road Traffic Signs 4.3 (W351)
+
+@ Warning signs
+I police-light
+Q What does a blue flashing light shown on this temporary sign indicate?
+- An ambulance is behind you
+-* Police are on duty ahead (e.g. roadblock or collision scene); be ready to stop
+- The road is closed permanently
+E Temporary police flashing light: be ready to stop at the stop sign that follows or on demand of a police officer.
+R Road Traffic Signs 4.3 (TW347)
+
+@ Warning signs
+I signals-out
+Q What should you do when you see this sign?
+- Proceed at normal speed; you have right of way
+-* Slow down, yield to other traffic and be ready to stop
+- Stop and wait until the lights work again
+E The traffic signal ahead is out of order: slow down, yield and be ready to stop; look out for a traffic officer or stop sign.
+R Road Traffic Signs 4.3 (TW412)
+
+@ Warning signs
+I chevron
+Q What does this chevron sign tell you?
+- Keep right of the sign
+-* The road ahead curves sharply in the direction the chevron points (left)
+- Overtaking is allowed
+E Sharp curve chevrons warn that the road curves suddenly; slow down to take the curve safely.
+R Road Traffic Signs 4.3 (sharp curve chevron, W405 left)
+
+@ Warning signs
+I soft-shoulder
+Q What should you do when you see this sign?
+-* Avoid driving or stopping on the shoulder
+- Drive on the shoulder to let others pass
+- Increase speed
+E Soft shoulder: do not drive or stop on the shoulder; if unavoidable, slow down as much as possible because the vehicle will pull towards the shoulder.
+R Road Traffic Signs 4.3 (TW342)
+
+@ Information signs
+I coordinated-signals
+Q What does the speed shown on this sign mean?
+- It is the speed limit for this road
+-* If you maintain this recommended speed, the next traffic signals should be green
+- It is the minimum speed
+E Co-ordinated traffic signals: the speed is a recommendation, not a speed limit.
+R Road Traffic Signs s6 (IN14)
+
+@ Information signs
+I multi-phase
+Q At an intersection with this sign, oncoming traffic gets a green light while your light stays red. What should you do?
+-* Wait until your own signal is green
+- Move off with the oncoming traffic
+- Turn right, since the oncoming traffic has priority
+E Multi-phase signals do not follow the normal sequence. Do not move off when approaching traffic moves; wait for your green.
+R Road Traffic Signs s6 (IN15)
+
+@ Information signs
+I right-of-way
+Q What does this sign tell you?
+- Yield to traffic from the right
+-* You have the right of way at the intersection ahead
+- A dangerous intersection is ahead
+E Right-of-way sign: do not slow down unnecessarily, but make sure other traffic will yield.
+R Road Traffic Signs s6 (IN7)
+
+@ Information signs
+Q Countdown signs (IN3, IN2, IN1) before a freeway exit indicate the exit is approximately …
+- 3 km, 2 km and 1 km ahead
+-* 300 m, 200 m and 100 m ahead
+- 30 m, 20 m and 10 m ahead
+E Countdown signs indicate an exit about 300 m, 200 m and 100 m ahead.
+R Road Traffic Signs s6
+
+@ Guidance signs
+Q The pre-advance exit direction sign on a freeway is placed approximately how far before an off-ramp?
+- 500 m
+- 1 km
+-* 2 km
+E Pre-advance exit direction (GA1): about 2 km before the off-ramp. Advance exit (GA2): about 1 km. Supplementary exit: about 500 m.
+R Road Traffic Signs 5.5
+
+@ Guidance signs
+Q By the time you pass the supplementary exit direction sign (about 500 m before the off-ramp) and want to leave the freeway, you should be …
+-* in the extreme left-hand lane
+- in the right-hand lane
+- on the shoulder
+E By the supplementary exit sign you should already be in the extreme left-hand lane.
+R Road Traffic Signs 5.5
+
+@ Guidance signs
+Q The gore exit sign is placed between the off-ramp and the continuing freeway. If you want to leave the freeway, you pass it …
+-* on the left-hand side
+- on the right-hand side
+- on either side
+E Pass on the left of the gore sign to leave the freeway, and on the right to stay on it.
+R Road Traffic Signs 5.5 (GA4)
+
+@ Guidance signs
+Q If the brakes of your vehicle fail on a steep descent with an arrestor bed, you should …
+- turn off the engine
+-* drive straight into the arrestor bed
+- drive onto the shoulder
+E Arrestor beds are gravel areas that stop vehicles whose brakes have failed; drive straight into it.
+R Road Traffic Signs 5.6 (GS501-504) & 7.2 (WM9)
+
+@ Guidance signs
+Q A confirmation sign on a freeway is placed about 750 m after entering the freeway. Its purpose is to …
+- tell you the speed limit
+-* confirm the destinations and distances ahead so you can plan stops for fuel and rest
+- warn you of an exit
+E Confirmation signs (GA7) confirm the destinations and distances.
+R Road Traffic Signs 5.5 (GA7)
+
+@ Road markings
+I m-stop-line
+Q You approach this marking and there is no stop sign. What does it mean?
+- Slow down only
+-* It has the same meaning as a stop sign: stop with your vehicle behind the line
+- Stop only if a pedestrian is present
+E A stop line without a stop sign has the same meaning as a stop sign.
+R Road Traffic Signs 7.1 (RTM1)
+
+@ Road markings
+I m-yield-line
+Q What does this road marking (broken transverse line with a triangle) mean?
+-* Yield: give way to anyone who crosses or wants to cross your path, even if there is no yield sign
+- Stop completely every time
+- Pedestrian crossing ahead
+E The yield line indicates you must give priority to all who cross in front of you, even without a yield sign.
+R Road Traffic Signs 7.1 (RTM2)
+
+@ Road markings
+I m-yield-ahead
+Q What does this triangle marking painted in your lane warn you of?
+- A pedestrian crossing
+-* A yield sign or yield line ahead
+- A railway crossing
+E Yield control ahead (WM5) warns that there is a yield sign ahead.
+R Road Traffic Signs 7.2 (WM5)
+
+@ Road markings
+I m-no-overtaking
+Q You are driving the blue car. What does the solid white centre line (no-overtaking line) mean?
+- You may cross it to overtake when the road is clear
+-* You may not drive with any part of your vehicle to the right of it, except to enter or leave an entrance on the other side or to pass a stationary obstruction, when safe
+- It only applies at night
+E RM1: do not cross except to gain direct access to or from an entrance on the other side, or to pass a stationary obstruction – and only when safe.
+R Road Traffic Signs 7.1 (RM1)
+
+@ Road markings
+I m-no-crossing
+Q When may you cross these double solid lines (no-crossing lines)?
+- To overtake a slow-moving tractor
+- To turn into a driveway on the right
+-* Only to drive around a stationary vehicle or obstruction in the road
+E RM2: you may under no circumstances cross, except to drive around a stationary vehicle or obstruction.
+R Road Traffic Signs 7.1 (RM2)
+
+@ Road markings
+I m-solid-broken
+Q You are driving the blue car. On your side of the centre markings is a broken line next to a solid line. May you cross to overtake?
+-* Yes, when it is safe, because the line on your side is broken
+- No, never
+- Only if the oncoming lane has a broken line on its side
+E A solid line applies to traffic on the side where it is nearest. With a broken line on your side, you may cross when it is safe; traffic on the solid-line side may not cross.
+R National Road Traffic Regulations road-marking rules (not spelled out in the 2012 learner manual)
+
+@ Road markings
+I m-dividing
+Q What does this broken centre line (dividing line) warn you of?
+- All traffic is moving in your direction
+-* Vehicles on the other side are moving in the opposite direction
+- You may not cross it at any time
+E Dividing lines warn that vehicles on the other side are moving in the opposite direction; be alert for vehicles moving onto your side.
+R Road Traffic Signs 7.2 (WM3)
+
+@ Road markings
+I m-lane-lines
+Q What do these broken lane lines indicate?
+-* You are on a part of the road with traffic moving in the same direction; drive in the centre of your lane
+- No overtaking
+- A bus lane
+E Lane lines (GM1) show traffic in the same direction; drive in the centre of your demarcated lane.
+R Road Traffic Signs 7.3 (GM1)
+
+@ Road markings
+I m-no-stopping
+Q What does a red line along the edge of the road mean?
+- No parking, but you may stop briefly
+-* No stopping, except in an emergency
+- Loading zone
+E Red no-stopping lines (RM12): except in an emergency, do not stop.
+R Road Traffic Signs 7.1 (RM12)
+
+@ Road markings
+I m-no-parking
+Q What does a yellow no-parking line (RM13) painted along the kerb mean?
+-* You may stop briefly, but may not park
+- You may not stop at all
+- Parking for buses only
+E No parking line (RM13): you may stop for short periods but may not park.
+R Road Traffic Signs 7.1 (RM13)
+
+@ Road markings
+I m-box-junction
+Q What does this yellow box junction marking mean?
+- You may wait inside the box when turning right
+-* Do not stop inside the box; only enter if you can drive through
+- Parking is allowed in the box at night
+E Box junction (RM10): do not stop in the demarcated box; make sure you can drive through before entering.
+R Road Traffic Signs 7.1 (RM10)
+
+@ Road markings
+I m-painted-island
+Q When may you drive over a painted island?
+- To overtake a slow vehicle
+-* Only on the orders of a traffic or police officer, to avoid a collision, or in an emergency
+- At night when the road is empty
+E Painted island (RM5): do not stop, park or drive over it except on an officer's orders, to avoid a collision or in an emergency.
+R Road Traffic Signs 7.1 (RM5)
+
+@ Road markings
+I m-ped-crossing
+Q What must you do at this marking?
+-* Give priority to pedestrians crossing or wanting to cross by slowing down or stopping
+- Hoot to warn pedestrians
+- Stop only if a traffic light is red
+E Pedestrian crossing lines: give pedestrians priority by slowing down or stopping.
+R Road Traffic Signs 7.1 (RTM3/RTM4)
+
+@ Road markings
+I m-continuity
+Q What do these short, closely spaced broken lines (continuity lines) warn you of?
+-* A break (intersection or off-ramp) ahead; a lane with this line may soon turn off the road
+- Overtaking is prohibited
+- The road ends
+E Continuity lines (WM2) warn of a break in the road; if your lane has a line on one side, it will soon turn off. Yield to traffic changing lanes.
+R Road Traffic Signs 7.2 (WM2)
+
+@ Road markings
+I m-bus-lane
+Q You are driving a car. May you drive in a lane marked like this during the times shown on the bus lane sign?
+- Yes, if no bus is in sight
+-* No, it is reserved for buses during those times
+- Only to overtake
+E Bus lane marking (RM9): if you are not driving a bus, do not drive in the lane during the times on the sign.
+R Road Traffic Signs 7.1 (RM9)
+
+@ Road markings
+Q The left-edge line of the road may be crossed to drive on the shoulder only …
+- at any time when traffic is slow
+-* during the day, while being overtaken, if safe, and when visibility is at least 150 m
+- at night when the road is empty
+E You may drive left of the left-edge line only while being overtaken, if safe, during daytime and with visibility of at least 150 m. It is not compulsory to move over.
+R Road Traffic Signs 7.1 (RM4.1)
+
+@ Road markings
+Q The right-edge line (usually on dual carriageways and freeways) …
+-* may not be crossed
+- may be crossed to overtake
+- marks a parking area
+E The right-edge line is usually found on one-way roads such as dual carriageways or freeways and may not be crossed.
+R Road Traffic Signs 7.1 (RM4.2)
+
+@ Road markings
+Q Mandatory direction arrows painted in your lane mean …
+- the direction is recommended
+-* you may only proceed in the direction shown by the arrow in your lane
+- the lane is for buses
+E Mandatory direction arrows (RM8): choose the correct lane in time; you may only go in the direction of the arrow.
+R Road Traffic Signs 7.1 (RM8)
+
+@ Road markings
+Q A channelizing line (solid line between lanes travelling in the same direction) means …
+- you may cross it when safe
+-* you may not cross it
+- it is only a guide at night
+E Channelizing line (RM3): drive so that no part of your vehicle crosses the line.
+R Road Traffic Signs 7.1 (RM3)
+
+@ Road markings
+Q An exclusive parking bay marked with the letter "L" is reserved for …
+- learner drivers
+-* loading (goods vehicles loading and off-loading)
+- limousines
+E RM7 letters: A ambulance, B bus, L loading zone, T taxi, F fire-fighting, CD diplomatic, MB minibus, R rickshaw, SOS phone, D defence force, P police. Only goods vehicles may stop or park in an L bay.
+R Road Traffic Signs 7.1 (RM7)
+
+@ Road markings
+Q May you stop at a parking bay marked "SOS"?
+-* Yes, in an emergency, to use the SOS telephone
+- Yes, for up to 15 minutes
+- No, never
+E In an emergency you may stop or park at the bay that indicates the SOS telephone.
+R Road Traffic Signs 7.1 (RM7)
+
+@ Road markings
+Q What should you do when approaching a speed hump marking?
+- Brake hard while driving over the hump
+-* Slow down and release your brake before driving over the hump
+- Speed up to cross it quickly
+E Speed hump (WM10): slow down and release your brake before driving over it.
+R Road Traffic Signs 7.2 (WM10)
+
+@ Road markings
+Q The broken lines painted along the lane edges just before a pedestrian crossing (RM11) mark an area where you may NOT …
+-* stop (except for pedestrians or a stopped vehicle) or overtake
+- drive slower than 40 km/h
+- use your indicators
+E RM11: do not stop except for pedestrians or for a vehicle that has stopped; do not overtake inside this area or a vehicle stopped at the crossing.
+R Road Traffic Signs 7.1 (RM11)
+
+@ Road markings
+Q Lane reduction arrows painted on the road warn you that …
+- the road ends
+-* the number of lanes is being reduced; change lanes in good time if yours ends
+- a bus lane begins
+E Lane reduction arrows (WM6): change lanes in time if your lane ends, checking blind spots.
+R Road Traffic Signs 7.2 (WM6)
+
+@ Traffic signals
+I t-red
+Q What does a steady red traffic light mean?
+-* Stop
+- Stop, then proceed if no traffic is coming
+- Proceed with caution
+E Red means stop.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-amber
+Q What does a steady amber (yellow) traffic light mean?
+- Speed up to cross before it turns red
+-* Stop, except where you cannot do so safely
+- Proceed with caution
+E Amber: stop, except where it cannot be done safely.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-green
+Q What does a green traffic light mean?
+- Go, you have absolute right of way
+-* Go if it is safe
+- Go only if turning left
+E Green: go if it is safe.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-flash-red
+Q What does a flashing red traffic signal at an intersection mean?
+- Proceed with caution without stopping
+-* Stop, and proceed when it is safe (like a stop sign)
+- The signal is out of order; ignore it
+E A flashing red signal means stop and carry on when safe, as at a stop sign.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-flash-amber
+Q What does a flashing amber disc mean?
+-* Drive on carefully, but yield to pedestrians, who may cross
+- Stop and wait for green
+- Speed up
+E Flashing amber: drive carefully and yield to pedestrians, who may cross the roadway.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-flash-green-right
+Q What does a flashing green arrow pointing right mean?
+- You must turn right
+-* You have right of way in the direction of the flashing arrow
+- Yield to oncoming traffic before turning right
+E Flashing green arrow: right of way in the direction of the arrow.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-flash-red-left
+Q What does a flashing red arrow pointing left mean?
+- You may turn left without stopping
+-* After stopping, you may turn left if there is no traffic, yielding to pedestrians and other traffic
+- No left turn at any time
+E Flashing red arrow to the left: after stopping, you may turn if clear, yielding to pedestrians, oncoming right-turning traffic and traffic from the right.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-amber-arrow-right
+Q What does a steady amber arrow mean?
+-* Stop and wait until the flashing green arrow shows you may go
+- Proceed with caution in the direction of the arrow
+- The traffic light is out of order
+E Constant amber arrow: stop and wait until the flashing green arrow shows you may go.
+R Road Traffic Signs s8
+
+@ Traffic signals
+I t-green-arrow-left
+Q What does a steady (constant) green arrow mean?
+-* It shows the direction in which traffic must go (e.g. in one-way streets)
+- You may turn but must yield to all traffic
+- Stop
+E Constant green arrow: shows the direction in which traffic must go.
+R Road Traffic Signs s8
+
+@ Traffic signals
+Q At a railway crossing, a red light is flashing. You must …
+- slow down and cross quickly
+-* stop and not drive on until the light stops flashing
+- stop, look and then proceed if no train is visible
+E At a railway crossing a flashing red light indicates a train is coming; do not drive on until it stops flashing.
+R Road Traffic Signs s8
+
+@ Traffic signals
+Q An overhead steady red cross (S17) above your lane means …
+- the lane is for emergency vehicles
+-* you may not drive in that lane (it may be open to opposite traffic)
+- slow down
+E S17 red cross: you may not drive in the lane under it. S16 green downward arrow: you may drive in that lane.
+R Road Traffic Signs s8
+
+@ Traffic signals
+Q An overhead steady green arrow pointing down (S16) means …
+-* you may drive in the lane over which the arrow is displayed
+- you must leave this lane
+- the lane ahead is closed
+E S16: you may drive in the lane below the arrow.
+R Road Traffic Signs s8
+
+@ Traffic signals
+Q An overhead yellow diagonal arrow (S18/S19) above your lane means …
+- you have right of way
+-* your lane is closed ahead; move out of it in the direction of the arrow
+- turn at the next intersection
+E S18/S19: the lane is closed ahead; leave it in the direction of the arrow.
+R Road Traffic Signs s8
+
+@ Traffic signals
+Q A traffic officer's hand signals conflict with the traffic light. You must obey …
+- the traffic light
+-* the traffic officer
+- whichever is safer in your opinion
+E The traffic officer's signals take precedence over any other traffic signal.
+R Road Traffic Signs 8.1 (SS1)
